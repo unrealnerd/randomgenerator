@@ -1,0 +1,538 @@
+[  
+    {
+        "key": "A Chip on Your Shoulder",
+        "value": "Being angry about something that happened in the past."
+    },
+    {
+        "key": "A Dime a Dozen",
+        "value": "Something that is extremely common."
+    },
+    {
+        "key": "A Fool and His Money are Soon Parted",
+        "value": "It's easy for a fool to lose his/her money."
+    },
+    {
+        "key": "A Piece of Cake",
+        "value": "A task that is simple to accomplish."
+    },
+    {
+        "key": "An Arm and a Leg",
+        "value": "Something that is extremely expensive."
+    },
+    {
+        "key": "All Greek To Me",
+        "value": "When something is incomprehensible due to complexity; unintelligble."
+    },
+    {
+        "key": "Back to Square One",
+        "value": "To go back to the beginning; back to the drawing board."
+    },
+    {
+        "key": "Back To the Drawing Board",
+        "value": "Starting over again on a new design from a previously failed attempt."
+    },
+    {
+        "key": "Barking Up The Wrong Tree",
+        "value": "To make a wrong assumption about something."
+    },
+    {
+        "key": "Beating a Dead Horse",
+        "value": "To bring up an issue that has already been resolved."
+    },
+    {
+        "key": "Beating Around the Bush",
+        "value": "Someone who is beating around the bush is someone who avoids the main point."
+    },
+    {
+        "key": "Between a Rock and a Hard Place",
+        "value": "Being faced with two difficult choices."
+    },
+    {
+        "key": "Birds of a Feather Flock Together",
+        "value": "People tend to associate with others who share similar interests or values."
+    },
+    {
+        "key": "Break The Ice",
+        "value": "Breaking down a social stiffness."
+    },
+    {
+        "key": "Burst Your Bubble",
+        "value": "To ruin someone's happy moment."
+    },
+    {
+        "key": "Close But No Cigar",
+        "value": "Coming close to a successful outcome only to fall short at the end."
+    },
+    {
+        "key": "Cry Over Spilt Milk",
+        "value": "It's useless to worry about things that  already happened and cannot be changed."
+    },
+    {
+        "key": "Cry Wolf",
+        "value": "Someone that calls for help when it is not needed. Someone who is lying."
+    },
+    {
+        "key": "Cup Of Joe",
+        "value": "A cup of joe is an American nickname for a cup of coffee."
+    },
+    {
+        "key": "Curiosity Killed The Cat",
+        "value": "Typically said to indicate that any further investigation into a situation may lead to harm."
+    },
+    {
+        "key": "Cut The Mustard",
+        "value": "To cut the mustard is to meet a required standard, or to meet expectations."
+    },
+    {
+        "key": "Cut To The Chase",
+        "value": "To get to the point, leaving out all of the unnecessary details."
+    },
+    {
+        "key": "Don't Count Your Chickens Before They Hatch",
+        "value": "Do not rely on something you are not sure of."
+    },
+    {
+        "key": "Don't Look a Gift Horse In The Mouth",
+        "value": "When you receive a gift from someone, do not be ungrateful."
+    },
+    {
+        "key": "Down And Out",
+        "value": "(1) A term used in a boxing. (2) Someone who has become incapacitated."
+    },
+    {
+        "key": "Down For The Count",
+        "value": "Someone or something that looks to be defeated, or nearly so."
+    },
+    {
+        "key": "Down To Earth",
+        "value": "Practical or humble; unpretentious."
+    },
+    {
+        "key": "Down To The Wire",
+        "value": "A tense situation where the outcome is decided only in the last few seconds."
+    },
+    {
+        "key": "Drawing a Blank",
+        "value": "Failing to recall a memory. Unable to remember something."
+    },
+    {
+        "key": "Drive Me Nuts",
+        "value": "To greatly frustrate someone. To drive someone crazy, insane, bonkers, or bananas."
+    },
+    {
+        "key": "Dropping Like Flies",
+        "value": "To fall down ill or to die in large numbers."
+    },
+    {
+        "key": "Easy As Pie",
+        "value": "Something that is easy."
+    },
+    {
+        "key": "Eat My Hat",
+        "value": "Having confidence in a specific outcome; being almost sure about something."
+    },
+    {
+        "key": "Elephant in the Room",
+        "value": "Ignoring a large, obvious problem or failing to address an issue that stands out in a major way."
+    },
+    {
+        "key": "Elvis Has Left The Building",
+        "value": "Something that is all over."
+    },
+    {
+        "key": "Every Cloud Has a Silver Lining",
+        "value": "To be optimistic, even in difficullt times."
+    },
+    {
+        "key": "Everything But The Kitchen Sink",
+        "value": "Including nearly everything possible."
+    },
+    {
+        "key": "Fight Fire With Fire",
+        "value": "To retaliate with an attack that is similar to the attack used against you."
+    },
+    {
+        "key": "Fish Out Of Water",
+        "value": "Someone being in a situation that they are unfamiliar or unsuited for."
+    },
+    {
+        "key": "Fit as a Fiddle",
+        "value": "Being fit as a fiddle means to be in perfect health."
+    },
+    {
+        "key": "Flea Market",
+        "value": "A type of bazaar where inexpensive goods are sold or bartered."
+    },
+    {
+        "key": "Foaming At The Mouth",
+        "value": "To be enraged and show it."
+    },
+    {
+        "key": "Fool's Gold",
+        "value": "Iron pyrities is a worthless mineral that resembles gold."
+    },
+    {
+        "key": "Give a Man a Fish",
+        "value": "It's better to teach a person how to do something than to do that something for them."
+    },
+    {
+        "key": "Go For Broke",
+        "value": "To risk it all, even if it means losing everything. To go all out."
+    },
+    {
+        "key": "Go Out On a Limb",
+        "value": "Putting yourself in a risky situation in order to help someone; or to hazard a guess."
+    },
+    {
+        "key": "Goody Two-Shoes",
+        "value": "A smugly virtuous person."
+    },
+    {
+        "key": "Greased Lightning",
+        "value": "Very fast or quick."
+    },
+    {
+        "key": "Hands Down",
+        "value": "Anything that's easy or has no difficulty; something that is a certainty."
+    },
+    {
+        "key": "Happy as a Clam",
+        "value": "The state of being happy; feeling delighted."
+    },
+    {
+        "key": "Hard Pill to Swallow",
+        "value": "Something that's difficult to accept."
+    },
+    {
+        "key": "Head Over Heels",
+        "value": "Falling deeply in love with another person."
+    },
+    {
+        "key": "Heads Up",
+        "value": "Used as an advanced warning. To become keenly aware."
+    },
+    {
+        "key": "Hear, Hear",
+        "value": "A shout of agreement, or to draw attention to a speaker."
+    },
+    {
+        "key": "High And Dry",
+        "value": "To be left behind; abandoned. Being in a helpless situation without a way to recover."
+    },
+    {
+        "key": "Hit Below The Belt",
+        "value": "A boxing term. Also often used to refer to inappropriate words, or comments that are too personal."
+    },
+    {
+        "key": "I Smell a Rat",
+        "value": "A feeling that something is not quite right, or awry."
+    },
+    {
+        "key": "If You Can't Stand the Heat, Get Out of the Kitchen",
+        "value": "One should discontinue with a task if they are unable to cope with it due to pressure."
+    },
+    {
+        "key": "In a Pickle",
+        "value": "Being in a difficult predicament; a mess; an undesirable situation."
+    },
+    {
+        "key": "In the Red",
+        "value": "Losing money. Being in debt."
+    },
+    {
+        "key": "It's Not All It's Cracked Up To Be",
+        "value": "Failing to meet expectations; not being as good as people say."
+    },
+    {
+        "key": "It's Not Brain Surgery",
+        "value": "A task that's easy to accomplish, a thing lacking complexity."
+    },
+    {
+        "key": "Jack of All Trades Master of None",
+        "value": "Having suitable skill in multiple things, but not being an expert in any of them."
+    },
+    {
+        "key": "Jaws of Death",
+        "value": "Being in a dangerous or very deadly situation."
+    },
+    {
+        "key": "Jaws of Life",
+        "value": "Usually this references a tool used by rescuers when they pry or cut open a car to save the occupant."
+    },
+    {
+        "key": "Jig Is Up",
+        "value": "For a ruse or trick to be discovered; to be caught."
+    },
+    {
+        "key": "Jumping the Gun",
+        "value": "Something that occurs too early before preparations are ready. Starting too soon."
+    },
+    {
+        "key": "Keep On Truckin'",
+        "value": "To keep going, pressing forward; never stopping."
+    },
+    {
+        "key": "Keep Your Eyes Peeled",
+        "value": "To be watchful; paying careful attention to something."
+    },
+    {
+        "key": "Keep Your Shirt On",
+        "value": "Keeping calm. Usually said by someone who is trying to avoid making others upset."
+    },
+    {
+        "key": "Knock Your Socks Off",
+        "value": "To be taken by surprise."
+    },
+    {
+        "key": "Know the Ropes",
+        "value": "Having a familiarity or understanding of how something works."
+    },
+    {
+        "key": "Knuckle Down",
+        "value": "Getting sincere about something; applying oneself seriously to a job."
+    },
+    {
+        "key": "Let Her Rip",
+        "value": "Permission to start, or it could mean 'go faster!'"
+    },
+    {
+        "key": "Lickety Split",
+        "value": "To go at a quick pace; no delaying!"
+    },
+    {
+        "key": "Like Father Like Son",
+        "value": "Resembling one's parents in terms of appearance or behavior."
+    },
+    {
+        "key": "Long In The Tooth",
+        "value": "Old in age. Mainly used when referring to people or horses."
+    },
+    {
+        "key": "Love Birds",
+        "value": "A pair of people who have a shared love for each other."
+    },
+    {
+        "key": "Lovey Dovey",
+        "value": "The affectionate stuff that people do when they are in love, such as kissing and hugging."
+    },
+    {
+        "key": "Man of Few Words",
+        "value": "A person who does not speak a great deal; someone who talks with as few words as possible."
+    },
+    {
+        "key": "Money Doesn't Grow On Trees",
+        "value": "Suggests that money is a resource that must be earned and is not one that's easily acquired."
+    },
+    {
+        "key": "Mountain Out of a Molehill",
+        "value": "One who escalates small things and turns them into big problems."
+    },
+    {
+        "key": "Mouth-watering",
+        "value": "Delicious; something that looks or tastes appetizing."
+    },
+    {
+        "key": "My Cup of Tea",
+        "value": "Someone or something that one finds to be agreeable or delightful."
+    },
+    {
+        "key": "Needle In a Haystack",
+        "value": "To keep going, pressing forward; never stopping."
+    },
+    {
+        "key": "No-Brainer",
+        "value": "Anything that requires minimal brain activity to accomplish."
+    },
+    {
+        "key": "No Ifs, Ands, or Buts",
+        "value": "Finishing a task without making any excuses."
+    },
+    {
+        "key": "Not the Sharpest Tool in the Shed",
+        "value": "Someone who isn't witty or sharp, but rather, they are ignorant, unintelligent, or senseless."
+    },
+    {
+        "key": "Off One's Base",
+        "value": "A person that is crazy or behaving in idiotic ways"
+    },
+    {
+        "key": "On Cloud Nine",
+        "value": "Having strong feelings of happiness or satisfaction. "
+    },
+    {
+        "key": "On the Ropes",
+        "value": "Being in a situation that looks to be hopeless!"
+    },
+    {
+        "key": "On the Same Page",
+        "value": "Thinking alike or understanding something in a similar way with others."
+    },
+    {
+        "key": "Par For the Course",
+        "value": "What you would expect to happen; something normal or common."
+    },
+    {
+        "key": "Playing For Keeps",
+        "value": "Said when things are about to get serious."
+    },
+    {
+        "key": "Playing Possum",
+        "value": "Pretending to be dead, or to be deceitful about something."
+    },
+    {
+        "key": "Plot Thickens - The",
+        "value": "A situation that has gotten way more serious or interesting due to recent complexities or developments."
+    },
+    {
+        "key": "Poke Fun At",
+        "value": "Making fun of something or someone; ridicule."
+    },
+    {
+        "key": "Put a Sock In It",
+        "value": "Asking someone to be quiet or to shut up."
+    },
+    {
+        "key": "Quality Time",
+        "value": "Spending time with another to strengthen the relationship."
+    },
+    {
+        "key": "Quick and Dirty",
+        "value": "Things that are fixed with great speed, but as a result, it's probably not going to work very well."
+    },
+    {
+        "key": "Quick On the Draw",
+        "value": "Performing an action with the greatest of haste."
+    },
+    {
+        "key": "Rain on Your Parade",
+        "value": "To spoil someone's fun or plans; ruining a pleasurable moment"
+    },
+    {
+        "key": "Raining Cats and Dogs",
+        "value": "When it is raining heavily."
+    },
+    {
+        "key": "Read 'Em and Weep",
+        "value": "Often said by the winner in poker, as the others 'weep' over the loss."
+    },
+    {
+        "key": "Ride Him, Cowboy!",
+        "value": "A cheer people yell, usually at rodeos when cowboys are clinging to the backs of untamed horses."
+    },
+    {
+        "key": "Right Off the Bat",
+        "value": "Immediately, done in a hurry; without delay."
+    },
+    {
+        "key": "Right Out of the Gate",
+        "value": "Right from the beginning; to do something from the start."
+    },
+    {
+        "key": "Ring Any Bells?",
+        "value": "Recalling a memory; causing a person to remember something or someone."
+    },
+    {
+        "key": "Roll With the Punches",
+        "value": "To tolerate or endure through the unexpected mishappenings you may encounter from time to time."
+    },
+    {
+        "key": "Scot-free",
+        "value": "Getting away freely from custody, punishment, or any type of risky situation."
+    },
+    {
+        "key": "Short End of the Stick",
+        "value": "Getting the bad end of a deal, or receiving the least desirable outcome from something."
+    },
+    {
+        "key": "Shot In the Dark",
+        "value": "An attempt that has little chance for success."
+    },
+    {
+        "key": "Son of a Gun",
+        "value": "A person, usually one who is behaving badly."
+    },
+    {
+        "key": "Swinging For the Fences",
+        "value": "Giving something your all."
+    },
+    {
+        "key": "Talk the Talk",
+        "value": "Supporting what you say, not just with words, but also through action or evidence."
+    },
+    {
+        "key": "There's No I in Team",
+        "value": "To not work alone, but rather, together with others in order to achieve a certain goal."
+    },
+    {
+        "key": "Throw In the Towel",
+        "value": "Giving up; to surrender."
+    },
+    {
+        "key": "Top Drawer",
+        "value": "High quality, exceptional; something that's very valuable."
+    },
+    {
+        "key": "Tough It Out",
+        "value": "To remain resillient even in hard times; enduring."
+    },
+    {
+        "key": "Tug of War",
+        "value": "It can refer to the popular rope pulling game or it can mean a struggle for authority."
+    },
+    {
+        "key": "Two Down, One to Go",
+        "value": "Two things have been completed, but there is one more that has yet to be finished."
+    },
+    {
+        "key": "Ugly Duckling",
+        "value": "One who may seem plain at first in appearance or capability, but later turns out to be beautiful or great."
+    },
+    {
+        "key": "Under the Weather",
+        "value": "Not feeling well, in health or mood."
+    },
+    {
+        "key": "Under Your Nose",
+        "value": "Missing something that should be really obvious."
+    },
+    {
+        "key": "Up In Arms",
+        "value": "Angry; being roused to the point that you are ready to fight."
+    },
+    {
+        "key": "Wake Up Call",
+        "value": "An occurance of sorts that brings a problem to somebody's attention and they realize it needs fixing."
+    },
+    {
+        "key": "What Goes Up Must Come Down",
+        "value": "Things that go up must eventually return to the earth due to gravity."
+    },
+    {
+        "key": "What Am I, Chopped Liver?",
+        "value": "A rhetorical question used by a person who feels they are being given less consideration than someone else."
+    },
+    {
+        "key": "When the Rubber Hits the Road",
+        "value": "When something is about to begin, get serious, or put to the test."
+    },
+    {
+        "key": "Wild Goose Chase",
+        "value": "Futilely pursuing something that will never be attainable."
+    },
+    {
+        "key": "Wouldn't Harm a Fly",
+        "value": "Nonviolent; someone who is mild or gentle."
+    },
+    {
+        "key": "Yada Yada",
+        "value": "A way to notify a person that what they're saying is predictable or boring."
+    },
+    {
+        "key": "You Can't Judge a Book By Its Cover",
+        "value": "Don't judge someone or something only by the outward appearance."
+    },
+    {
+        "key": "You Can't Teach an Old Dog New Tricks",
+        "value": "It can be challenging to teach a person something new."
+    }
+]

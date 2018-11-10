@@ -1,0 +1,4650 @@
+[
+    {
+        "name": "abacus",
+        "detail": "frame with balls for calculating"
+    },
+    {
+        "name": "abate",
+        "detail": "to lessen to subside"
+    },
+    {
+        "name": "abdication",
+        "detail": "giving up control authority"
+    },
+    {
+        "name": "aberration",
+        "detail": "straying away from what is normal"
+    },
+    {
+        "name": "abet",
+        "detail": "help/encourage smb (in doing wrong)"
+    },
+    {
+        "name": "abeyance",
+        "detail": "suspended action"
+    },
+    {
+        "name": "abhor",
+        "detail": "to hate to detest"
+    },
+    {
+        "name": "abide",
+        "detail": "be faithful to endure"
+    },
+    {
+        "name": "abjure",
+        "detail": "promise or swear to give up"
+    },
+    {
+        "name": "abraded",
+        "detail": "rubbed off worn away by friction"
+    },
+    {
+        "name": "abrogate",
+        "detail": "repeal or annul by authority"
+    },
+    {
+        "name": "abscond",
+        "detail": "to go away suddenly (to avoid arrest)"
+    },
+    {
+        "name": "abstruse",
+        "detail": "difficult to comprehend obscure"
+    },
+    {
+        "name": "abut",
+        "detail": "border on"
+    },
+    {
+        "name": "abysmal",
+        "detail": "bottomless extreme"
+    },
+    {
+        "name": "acarpous",
+        "detail": "effete no longer fertile worn out"
+    },
+    {
+        "name": "acclaimed",
+        "detail": "welcomed with shouts and approval"
+    },
+    {
+        "name": "accolade",
+        "detail": "praise approval"
+    },
+    {
+        "name": "accretion",
+        "detail": "the growing of separate things into one"
+    },
+    {
+        "name": "adamant",
+        "detail": "kind of stone inflexible"
+    },
+    {
+        "name": "admonitory",
+        "detail": "containing warning"
+    },
+    {
+        "name": "adorn",
+        "detail": "add beauty decorate"
+    },
+    {
+        "name": "adulteration",
+        "detail": "making unpure poorer in quality"
+    },
+    {
+        "name": "affable",
+        "detail": "polite and friendly"
+    },
+    {
+        "name": "affinity",
+        "detail": "close connection relationship"
+    },
+    {
+        "name": "aggravate",
+        "detail": "make worse irritate"
+    },
+    {
+        "name": "agile",
+        "detail": "active quick-moving"
+    },
+    {
+        "name": "agog",
+        "detail": "eager/excited"
+    },
+    {
+        "name": "ail",
+        "detail": "trouble be ill"
+    },
+    {
+        "name": "alacrity",
+        "detail": "eager and cheerful readiness"
+    },
+    {
+        "name": "alcove",
+        "detail": "recess/partially enclosed place"
+    },
+    {
+        "name": "allegiance",
+        "detail": "duty support loyalty"
+    },
+    {
+        "name": "alleviate",
+        "detail": "make (pain) easier to bear"
+    },
+    {
+        "name": "alloy",
+        "detail": "to debase by mixing with something inferior"
+    },
+    {
+        "name": "aloof",
+        "detail": "reserved indifferent"
+    },
+    {
+        "name": "amalgamate",
+        "detail": "mix combine unite societies"
+    },
+    {
+        "name": "ambidextrous",
+        "detail": "able to use the left hand or the right equally well"
+    },
+    {
+        "name": "ambiguous",
+        "detail": "doubtful uncertain"
+    },
+    {
+        "name": "ambivalent",
+        "detail": "having both of two contrary meanings"
+    },
+    {
+        "name": "ameliorate",
+        "detail": "improve make better"
+    },
+    {
+        "name": "amortize",
+        "detail": "end (a debt) by setting aside money"
+    },
+    {
+        "name": "anguish",
+        "detail": "severe suffering"
+    },
+    {
+        "name": "animosity",
+        "detail": "strong dislike"
+    },
+    {
+        "name": "antidote",
+        "detail": "medicine used against a poison or a disease"
+    },
+    {
+        "name": "antithetical",
+        "detail": "direct opposing"
+    },
+    {
+        "name": "apartheid",
+        "detail": "brutal racial discrimination"
+    },
+    {
+        "name": "aplomb",
+        "detail": "self-confidence"
+    },
+    {
+        "name": "apostate",
+        "detail": "one who abandons long-held religious or political convictions"
+    },
+    {
+        "name": "apotheosis",
+        "detail": "deification glorification to godliness"
+    },
+    {
+        "name": "appease",
+        "detail": "make quiet or calm"
+    },
+    {
+        "name": "apprehensive",
+        "detail": "grasping understanding fear unhappy feeling about future"
+    },
+    {
+        "name": "apprise",
+        "detail": "give notice to inform"
+    },
+    {
+        "name": "approbation",
+        "detail": "approval"
+    },
+    {
+        "name": "apropos",
+        "detail": "appropriate to the situation apt"
+    },
+    {
+        "name": "apt",
+        "detail": "well-suited quick-witted"
+    },
+    {
+        "name": "arabesque",
+        "detail": "a complex ornate design"
+    },
+    {
+        "name": "arboreal",
+        "detail": "of connected with trees"
+    },
+    {
+        "name": "ardor",
+        "detail": "enthusiasm"
+    },
+    {
+        "name": "arduous",
+        "detail": "steep difficult ascent laborious"
+    },
+    {
+        "name": "argot",
+        "detail": "jargon slang"
+    },
+    {
+        "name": "arrant",
+        "detail": "in the highest degree"
+    },
+    {
+        "name": "arrogance",
+        "detail": "proud superior manner of behaviour"
+    },
+    {
+        "name": "articulate",
+        "detail": "speak distinctly connect by joints"
+    },
+    {
+        "name": "ascend",
+        "detail": "go or come up"
+    },
+    {
+        "name": "ascertain",
+        "detail": "get to know"
+    },
+    {
+        "name": "ascetic",
+        "detail": "practicing self-denial austere stark"
+    },
+    {
+        "name": "ascribe",
+        "detail": "consider to be the origin of or belonging to"
+    },
+    {
+        "name": "aseptic",
+        "detail": "surgically clean"
+    },
+    {
+        "name": "asperity",
+        "detail": "roughness harshness ill temper irritability"
+    },
+    {
+        "name": "aspersion",
+        "detail": "slander"
+    },
+    {
+        "name": "assail",
+        "detail": "with attack violently"
+    },
+    {
+        "name": "assiduous",
+        "detail": "diligent hard-working sedulous"
+    },
+    {
+        "name": "assuage",
+        "detail": "make smth (pain desire) less"
+    },
+    {
+        "name": "asterisk",
+        "detail": "the mark * (e.g.. omitted letters)"
+    },
+    {
+        "name": "astringent",
+        "detail": "substance that shrinks"
+    },
+    {
+        "name": "astute",
+        "detail": "clever quick at seeing to get an advantage"
+    },
+    {
+        "name": "atonement",
+        "detail": "repayment death of Jesus"
+    },
+    {
+        "name": "attenuate",
+        "detail": "make thin. weaken enervate"
+    },
+    {
+        "name": "attune",
+        "detail": "bring into harmony"
+    },
+    {
+        "name": "audacious",
+        "detail": "daring foolishly bold impudent"
+    },
+    {
+        "name": "augury",
+        "detail": "omen sign"
+    },
+    {
+        "name": "august",
+        "detail": "majestic venerable"
+    },
+    {
+        "name": "auspicious",
+        "detail": "favorable successful prosperous"
+    },
+    {
+        "name": "austere",
+        "detail": "severely moral and strict simple and plain"
+    },
+    {
+        "name": "auxiliary",
+        "detail": "helping supporting"
+    },
+    {
+        "name": "aver",
+        "detail": "affirm assert prove justify"
+    },
+    {
+        "name": "aversion",
+        "detail": "strong dislike"
+    },
+    {
+        "name": "avid",
+        "detail": "eager greedy"
+    },
+    {
+        "name": "avow",
+        "detail": "admit. Declare openly"
+    },
+    {
+        "name": "baleful",
+        "detail": "harmful ominous causing evil"
+    },
+    {
+        "name": "balk",
+        "detail": "obstacle purposely to get on the way of"
+    },
+    {
+        "name": "baneful",
+        "detail": "causing harm or ruin pernicious destructive"
+    },
+    {
+        "name": "barrage",
+        "detail": "artificial obstacle built across a river"
+    },
+    {
+        "name": "barren",
+        "detail": "not good enough unable to have young ones without value"
+    },
+    {
+        "name": "bask",
+        "detail": "in enjoy warmth and light"
+    },
+    {
+        "name": "beatify",
+        "detail": "to bless make happy or ascribe a virtue to"
+    },
+    {
+        "name": "bedizen",
+        "detail": "to adorn especially in a cheap showy manner"
+    },
+    {
+        "name": "belabor",
+        "detail": "beat hard"
+    },
+    {
+        "name": "bellicose",
+        "detail": "belligerent pugnacious warlike"
+    },
+    {
+        "name": "belligerent",
+        "detail": "(person nation) waging war"
+    },
+    {
+        "name": "benefactor",
+        "detail": "person who has given help"
+    },
+    {
+        "name": "benevolence",
+        "detail": "wish or activity in doing good"
+    },
+    {
+        "name": "benign",
+        "detail": "kind and gentle mild (climate)"
+    },
+    {
+        "name": "bequest",
+        "detail": "arrangement to give smth at death"
+    },
+    {
+        "name": "berate",
+        "detail": "scold sharply"
+    },
+    {
+        "name": "bereft",
+        "detail": "rob or dispossess of smth (material)"
+    },
+    {
+        "name": "bewilder",
+        "detail": "puzzle confuse"
+    },
+    {
+        "name": "bigot",
+        "detail": "stubborn narrow-minded person"
+    },
+    {
+        "name": "bilge",
+        "detail": "bulge the protuberance of a cask"
+    },
+    {
+        "name": "blandishment",
+        "detail": "flattery coaxing"
+    },
+    {
+        "name": "blandness",
+        "detail": "polite manner comforting uninteresting"
+    },
+    {
+        "name": "blatant",
+        "detail": "noisy and rough"
+    },
+    {
+        "name": "blithe",
+        "detail": "cheerful casual carefree"
+    },
+    {
+        "name": "bogus",
+        "detail": "sham counterfeit not genuine"
+    },
+    {
+        "name": "boisterous",
+        "detail": "loud noisy rough lacking restraint"
+    },
+    {
+        "name": "bolster",
+        "detail": "give greatly needed support"
+    },
+    {
+        "name": "boorish",
+        "detail": "crude offensive rude"
+    },
+    {
+        "name": "brash",
+        "detail": "hasty rush cheeky saucy"
+    },
+    {
+        "name": "brass",
+        "detail": "yellow metal (mixing copper and zinc)"
+    },
+    {
+        "name": "brazen",
+        "detail": "made of brass"
+    },
+    {
+        "name": "breach",
+        "detail": "opening broken place breaking"
+    },
+    {
+        "name": "brittle",
+        "detail": "easily broken"
+    },
+    {
+        "name": "broach",
+        "detail": "bring up announce begin to talk about"
+    },
+    {
+        "name": "brook",
+        "detail": "to tolerate endure"
+    },
+    {
+        "name": "buoyant",
+        "detail": "able to float light-hearted"
+    },
+    {
+        "name": "burgeon",
+        "detail": "grow forth send out buds"
+    },
+    {
+        "name": "burnish",
+        "detail": "to polish rub to a shine"
+    },
+    {
+        "name": "cabal",
+        "detail": "a scheme or plot a group of plotters"
+    },
+    {
+        "name": "cadge",
+        "detail": "to beg to get by begging"
+    },
+    {
+        "name": "cajole",
+        "detail": "use flattery or deceit to persuade"
+    },
+    {
+        "name": "calipers",
+        "detail": "metal supports attached to the legs measuring instrument"
+    },
+    {
+        "name": "calumny",
+        "detail": "slander aspersion"
+    },
+    {
+        "name": "candid",
+        "detail": "frank straight-forward"
+    },
+    {
+        "name": "cant",
+        "detail": "insincere talk/jargon"
+    },
+    {
+        "name": "cantankerous",
+        "detail": "bad-tempered/quarrelsome"
+    },
+    {
+        "name": "canvass",
+        "detail": "discuss thoroughly sort of touting"
+    },
+    {
+        "name": "castigate",
+        "detail": "to chastise correct by punishing"
+    },
+    {
+        "name": "castigation",
+        "detail": "severe punishment"
+    },
+    {
+        "name": "catalyst",
+        "detail": "substance that causes speeding up"
+    },
+    {
+        "name": "caustic",
+        "detail": "biting sarcastic"
+    },
+    {
+        "name": "censure",
+        "detail": "expression of blame or disapproval a rebuke"
+    },
+    {
+        "name": "centurion",
+        "detail": "leader of a unit of 100 soldiers"
+    },
+    {
+        "name": "chary",
+        "detail": "cautious wary"
+    },
+    {
+        "name": "chastened",
+        "detail": "corrected punished"
+    },
+    {
+        "name": "chastisement",
+        "detail": "punishment"
+    },
+    {
+        "name": "chauvinist",
+        "detail": "a blindly devoted patriot"
+    },
+    {
+        "name": "chicanery",
+        "detail": "legal trickery/false argument"
+    },
+    {
+        "name": "chisel",
+        "detail": "steel tool for shaping materials"
+    },
+    {
+        "name": "churl",
+        "detail": "bad-tempered person"
+    },
+    {
+        "name": "clamor",
+        "detail": "shout complain with a lot of noise"
+    },
+    {
+        "name": "clientele",
+        "detail": "customers"
+    },
+    {
+        "name": "clinch",
+        "detail": "come to grips/settle conclusively"
+    },
+    {
+        "name": "cling",
+        "detail": "to resist separation"
+    },
+    {
+        "name": "clot",
+        "detail": "half-solid lump formed from liquid"
+    },
+    {
+        "name": "cloture",
+        "detail": "closing device (in Parliament) to end a debate by voting"
+    },
+    {
+        "name": "coagulation",
+        "detail": "change to a thick and solid state"
+    },
+    {
+        "name": "coalescing",
+        "detail": "coming together and uniting into one substance"
+    },
+    {
+        "name": "coax",
+        "detail": "get smb to do smth by kindness"
+    },
+    {
+        "name": "coda",
+        "detail": "passage that completes a piece of music"
+    },
+    {
+        "name": "coddle",
+        "detail": "treat with care and tenderness"
+    },
+    {
+        "name": "coerce",
+        "detail": "compel to force to make obedient"
+    },
+    {
+        "name": "coeval",
+        "detail": "of the same period coexisting"
+    },
+    {
+        "name": "cogent",
+        "detail": "strong convincing"
+    },
+    {
+        "name": "cogitate",
+        "detail": "think deeply mediate"
+    },
+    {
+        "name": "cognizant",
+        "detail": "being fully aware of"
+    },
+    {
+        "name": "colander",
+        "detail": "bowl-shaped vessel with many holes used to drain off water"
+    },
+    {
+        "name": "collusion",
+        "detail": "secret agreement for a deceitful purpose"
+    },
+    {
+        "name": "combustion",
+        "detail": "process of burning"
+    },
+    {
+        "name": "commemorate",
+        "detail": "keep the memory of"
+    },
+    {
+        "name": "commodious",
+        "detail": "having plenty of space for what is needed"
+    },
+    {
+        "name": "commuter",
+        "detail": "person who travels regularly"
+    },
+    {
+        "name": "complaisance",
+        "detail": "tending to comply obliging willingness to please"
+    },
+    {
+        "name": "compunction",
+        "detail": "feeling of regret for one's action"
+    },
+    {
+        "name": "conceal",
+        "detail": "hide keep secret"
+    },
+    {
+        "name": "conceit",
+        "detail": "over-high opinion of too much pride"
+    },
+    {
+        "name": "conciliatory",
+        "detail": "reconciling soothing comforting mollifying"
+    },
+    {
+        "name": "concord",
+        "detail": "agreement or harmony"
+    },
+    {
+        "name": "concur",
+        "detail": "agree in opinion happen together"
+    },
+    {
+        "name": "condense",
+        "detail": "increase in density strength make laconic"
+    },
+    {
+        "name": "condone",
+        "detail": "forgive"
+    },
+    {
+        "name": "congeal",
+        "detail": "make or become stiff and solid"
+    },
+    {
+        "name": "conjoin",
+        "detail": "to join together"
+    },
+    {
+        "name": "connoisseur",
+        "detail": "a person with good judgement (e.g.. in art)"
+    },
+    {
+        "name": "connotation",
+        "detail": "suggestion in addition to"
+    },
+    {
+        "name": "consequential",
+        "detail": "pompous self important"
+    },
+    {
+        "name": "console",
+        "detail": "give comfort or sympathy to"
+    },
+    {
+        "name": "conspicuous",
+        "detail": "easily seen remarkable"
+    },
+    {
+        "name": "consternation",
+        "detail": "surprise and fear dismay"
+    },
+    {
+        "name": "constrain",
+        "detail": "compel"
+    },
+    {
+        "name": "constrict",
+        "detail": "make tight or smaller"
+    },
+    {
+        "name": "consume",
+        "detail": "get to the end of"
+    },
+    {
+        "name": "consummate",
+        "detail": "perfect/make perfect/complete"
+    },
+    {
+        "name": "contemn",
+        "detail": "to scorn or despise"
+    },
+    {
+        "name": "contentious",
+        "detail": "argumentative pugnacious combative quarrelsome"
+    },
+    {
+        "name": "contiguous",
+        "detail": "touching neighboring near"
+    },
+    {
+        "name": "contrite",
+        "detail": "filled with deep sorrow for wrongdoing"
+    },
+    {
+        "name": "contumacious",
+        "detail": "insubordinate rebellious"
+    },
+    {
+        "name": "conundrum",
+        "detail": "a riddle dilemma enigma"
+    },
+    {
+        "name": "conviction",
+        "detail": "convincing firm belief"
+    },
+    {
+        "name": "convoke",
+        "detail": "call together summon"
+    },
+    {
+        "name": "convoluted",
+        "detail": "complicated coiled twisted"
+    },
+    {
+        "name": "cordial",
+        "detail": "warm and sincere"
+    },
+    {
+        "name": "cordon",
+        "detail": "line (of police acting as a guard)"
+    },
+    {
+        "name": "cornucopia",
+        "detail": "abundant supply"
+    },
+    {
+        "name": "corporeal",
+        "detail": "physical of or for the body"
+    },
+    {
+        "name": "correlate",
+        "detail": "have a mutual relation"
+    },
+    {
+        "name": "corroboration",
+        "detail": "additional strengthening evidence"
+    },
+    {
+        "name": "countenance",
+        "detail": "to favor or approve of"
+    },
+    {
+        "name": "counterfeit",
+        "detail": "forgery"
+    },
+    {
+        "name": "countervail",
+        "detail": "counterbalance"
+    },
+    {
+        "name": "covert",
+        "detail": "disguised"
+    },
+    {
+        "name": "covetous",
+        "detail": "eagerly desirous"
+    },
+    {
+        "name": "cower",
+        "detail": "crouch shrink back"
+    },
+    {
+        "name": "coy",
+        "detail": "shy/modest (esp of a girl)"
+    },
+    {
+        "name": "crass",
+        "detail": "very great (es. stupidity)"
+    },
+    {
+        "name": "cravat",
+        "detail": "piece of linen worn as a necktie"
+    },
+    {
+        "name": "craven",
+        "detail": "cowardly"
+    },
+    {
+        "name": "crease",
+        "detail": "line made by crushing white line on the ground in cricket"
+    },
+    {
+        "name": "credulity",
+        "detail": "too great a readiness to believe things"
+    },
+    {
+        "name": "credulous",
+        "detail": "ready to believe things"
+    },
+    {
+        "name": "crush",
+        "detail": "press lose shape subdue overwhelm"
+    },
+    {
+        "name": "cryptic",
+        "detail": "secret with a hidden meaning"
+    },
+    {
+        "name": "cumbersome",
+        "detail": "burdensome heavy and awkward to carry"
+    },
+    {
+        "name": "curmudgeon",
+        "detail": "bad-tempered person"
+    },
+    {
+        "name": "curriculum",
+        "detail": "course of study"
+    },
+    {
+        "name": "cursory",
+        "detail": "quick hurried"
+    },
+    {
+        "name": "curtail",
+        "detail": "make shorter then was planned"
+    },
+    {
+        "name": "dainty",
+        "detail": "pretty/delicate(food)/difficult to please"
+    },
+    {
+        "name": "daunt",
+        "detail": "intimidate make fearful"
+    },
+    {
+        "name": "dawdler",
+        "detail": "person who is slow waste of time"
+    },
+    {
+        "name": "dearth",
+        "detail": "shortage"
+    },
+    {
+        "name": "debacle",
+        "detail": "a breakup overthrow sudden disaster"
+    },
+    {
+        "name": "decorum",
+        "detail": "propriety properness"
+    },
+    {
+        "name": "decree",
+        "detail": "order given by authority"
+    },
+    {
+        "name": "decry",
+        "detail": "disapprove of"
+    },
+    {
+        "name": "defer",
+        "detail": "postpone give way (to show respect)"
+    },
+    {
+        "name": "deferential",
+        "detail": "showing respect"
+    },
+    {
+        "name": "defiance",
+        "detail": "open disobedience or resistance"
+    },
+    {
+        "name": "delineate",
+        "detail": "to portray depict sketch out"
+    },
+    {
+        "name": "deluge",
+        "detail": "great flood heavy rush of water"
+    },
+    {
+        "name": "demagogue",
+        "detail": "person appealing not to reasons"
+    },
+    {
+        "name": "demur",
+        "detail": "to hesitate raise objections"
+    },
+    {
+        "name": "denigrate",
+        "detail": "blacken belittle sully defame"
+    },
+    {
+        "name": "denouement",
+        "detail": "an outcome or solution the unraveling of a plot"
+    },
+    {
+        "name": "deplete",
+        "detail": "use until none remains"
+    },
+    {
+        "name": "deposition",
+        "detail": "dethronement depositing"
+    },
+    {
+        "name": "deprave",
+        "detail": "make morally bad corrupt"
+    },
+    {
+        "name": "deprecate",
+        "detail": "protest against express disapproval of"
+    },
+    {
+        "name": "dereliction",
+        "detail": "deserting and leaving to fall into ruins"
+    },
+    {
+        "name": "derision",
+        "detail": "ridicule mockery deriding"
+    },
+    {
+        "name": "derivative",
+        "detail": "unoriginal obtained from another source"
+    },
+    {
+        "name": "derogatory",
+        "detail": "insulting tending to damage"
+    },
+    {
+        "name": "descry",
+        "detail": "catch sight of see smth in the distance"
+    },
+    {
+        "name": "desiccant",
+        "detail": "substance used to absorb moisture"
+    },
+    {
+        "name": "desuetude",
+        "detail": "cessation of use disuse"
+    },
+    {
+        "name": "desultory",
+        "detail": "aimless haphazard digressing at random"
+    },
+    {
+        "name": "deter",
+        "detail": "discourage hinder"
+    },
+    {
+        "name": "detraction",
+        "detail": "slandering verbal attack aspersion"
+    },
+    {
+        "name": "detumescence",
+        "detail": "diminishing or lessening of swelling"
+    },
+    {
+        "name": "deviance",
+        "detail": "being different in moral standards (from normal)"
+    },
+    {
+        "name": "dexterity",
+        "detail": "skill (esp. in handling)"
+    },
+    {
+        "name": "diaphanous",
+        "detail": "transparent gauzy"
+    },
+    {
+        "name": "diatribe",
+        "detail": "bitter and violent attack in words"
+    },
+    {
+        "name": "diffidence",
+        "detail": "shyness"
+    },
+    {
+        "name": "dilate",
+        "detail": "speak comprehensively become wider large"
+    },
+    {
+        "name": "disallow",
+        "detail": "refuse to allow or accept as a correct"
+    },
+    {
+        "name": "discern",
+        "detail": "see with an effort but clearly"
+    },
+    {
+        "name": "discomfit",
+        "detail": "confuse embarrass"
+    },
+    {
+        "name": "disconcert",
+        "detail": "upset the self-possession of"
+    },
+    {
+        "name": "discountenance",
+        "detail": "refuse to approve of"
+    },
+    {
+        "name": "discourse",
+        "detail": "speech lecture"
+    },
+    {
+        "name": "discredit",
+        "detail": "refuse to believe"
+    },
+    {
+        "name": "discreet",
+        "detail": "careful/prudent"
+    },
+    {
+        "name": "discrete",
+        "detail": "individually distinct"
+    },
+    {
+        "name": "disdain",
+        "detail": "look on with contempt"
+    },
+    {
+        "name": "disencumber",
+        "detail": "free from encumbrance"
+    },
+    {
+        "name": "disheveled",
+        "detail": "untidy"
+    },
+    {
+        "name": "disingenuous",
+        "detail": "sophisticated artful trying to deceive cunning"
+    },
+    {
+        "name": "disinter",
+        "detail": "dig up from the earth"
+    },
+    {
+        "name": "dislodge",
+        "detail": "move force from the place occupied"
+    },
+    {
+        "name": "dismal",
+        "detail": "sad gloomy miserable"
+    },
+    {
+        "name": "disparate",
+        "detail": "essentially different"
+    },
+    {
+        "name": "disproof",
+        "detail": "proof to the contrary"
+    },
+    {
+        "name": "dissemble",
+        "detail": "speak or behave so as to hide smth (in mind)"
+    },
+    {
+        "name": "disseminate",
+        "detail": "distribute (esp. ideas)"
+    },
+    {
+        "name": "dissent",
+        "detail": "have a different opinion refuse to assent"
+    },
+    {
+        "name": "dissolution",
+        "detail": "disintegration looseness in morals"
+    },
+    {
+        "name": "distraught",
+        "detail": "distracted violently upset in mind"
+    },
+    {
+        "name": "divergence",
+        "detail": "getting farther apart from a point"
+    },
+    {
+        "name": "divestiture",
+        "detail": "taking off getting rid of giving up"
+    },
+    {
+        "name": "divulge",
+        "detail": "make known smth secret"
+    },
+    {
+        "name": "doggerel",
+        "detail": "trivial poorly constructed verse"
+    },
+    {
+        "name": "dogmatic",
+        "detail": "positive certain arbitrary without room for discussion"
+    },
+    {
+        "name": "dolt",
+        "detail": "stupid fellow"
+    },
+    {
+        "name": "dormant",
+        "detail": "in a state of inactivity but awaiting development"
+    },
+    {
+        "name": "dote",
+        "detail": "show much fondness center one's attention"
+    },
+    {
+        "name": "drawl",
+        "detail": "slow way of speaking"
+    },
+    {
+        "name": "droll",
+        "detail": "jesting"
+    },
+    {
+        "name": "drone",
+        "detail": "male bee person who isn't self-employed"
+    },
+    {
+        "name": "drowsiness",
+        "detail": "feeling sleepy half asleep"
+    },
+    {
+        "name": "dubious",
+        "detail": "feeling doubt"
+    },
+    {
+        "name": "dud",
+        "detail": "no use person smth that fails"
+    },
+    {
+        "name": "dulcet",
+        "detail": "melodious harmonious"
+    },
+    {
+        "name": "dupe",
+        "detail": "cheat make a fool of"
+    },
+    {
+        "name": "duplicity",
+        "detail": "deliberate deception"
+    },
+    {
+        "name": "duress",
+        "detail": "threats to compel smb"
+    },
+    {
+        "name": "dwarf",
+        "detail": "person or smb much below the usual size"
+    },
+    {
+        "name": "dynamo",
+        "detail": "a generator something that produces electric current"
+    },
+    {
+        "name": "earthenware",
+        "detail": "dishes made of baked clay"
+    },
+    {
+        "name": "ebullience",
+        "detail": "exuberance outburst of feeling"
+    },
+    {
+        "name": "ebullient",
+        "detail": "overflowing with enthusiasm showing excitement"
+    },
+    {
+        "name": "ecumenical",
+        "detail": "representing the whole Christian world"
+    },
+    {
+        "name": "edacious",
+        "detail": "voracious devouring"
+    },
+    {
+        "name": "eddy",
+        "detail": "circular or spiral movement (e.g.. of wind)"
+    },
+    {
+        "name": "edible",
+        "detail": "fit to be eaten/not poisonous"
+    },
+    {
+        "name": "effete",
+        "detail": "infertile worn out weak"
+    },
+    {
+        "name": "efficacy",
+        "detail": "production of a desired result"
+    },
+    {
+        "name": "effluvia",
+        "detail": "outflow in a stream of particles a noxious odor or vapor"
+    },
+    {
+        "name": "effrontery",
+        "detail": "boldness impudence arrogance"
+    },
+    {
+        "name": "egress",
+        "detail": "way out exit"
+    },
+    {
+        "name": "elaborate",
+        "detail": "worked out with much care in great detail"
+    },
+    {
+        "name": "elegy",
+        "detail": "a lament a melancholy composition"
+    },
+    {
+        "name": "elicit",
+        "detail": "draw out"
+    },
+    {
+        "name": "eloquence",
+        "detail": "fluent speaking skillful use of language"
+    },
+    {
+        "name": "emaciate",
+        "detail": "make thin and weak"
+    },
+    {
+        "name": "embellish",
+        "detail": "make beautiful"
+    },
+    {
+        "name": "embezzle",
+        "detail": "use in a wrong way for one's own benefit"
+    },
+    {
+        "name": "emote",
+        "detail": "stir up excite"
+    },
+    {
+        "name": "empirical",
+        "detail": "relying on experiment"
+    },
+    {
+        "name": "encapsulate",
+        "detail": "enclose in capsule"
+    },
+    {
+        "name": "encomium",
+        "detail": "warm or glowing praise eulogy panegyric"
+    },
+    {
+        "name": "encumbrance",
+        "detail": "burden things that get on the way of"
+    },
+    {
+        "name": "endearing",
+        "detail": "making dear or liked"
+    },
+    {
+        "name": "endemic",
+        "detail": "epidemic"
+    },
+    {
+        "name": "endorse",
+        "detail": "write one's name on the back of"
+    },
+    {
+        "name": "enduring",
+        "detail": "lasting"
+    },
+    {
+        "name": "enervate",
+        "detail": "weaken deprive of strength attenuate"
+    },
+    {
+        "name": "engender",
+        "detail": "cause produce give rise to"
+    },
+    {
+        "name": "engrave",
+        "detail": "impress deeply"
+    },
+    {
+        "name": "engrossing",
+        "detail": "taken up all the time or attention writing in large or formal"
+    },
+    {
+        "name": "engulf",
+        "detail": "swallow up"
+    },
+    {
+        "name": "enigma",
+        "detail": "smth that is puzzling"
+    },
+    {
+        "name": "enmity",
+        "detail": "hatred being an enemy"
+    },
+    {
+        "name": "ensign",
+        "detail": "flag/badge"
+    },
+    {
+        "name": "entangle",
+        "detail": "put into difficulties"
+    },
+    {
+        "name": "enthral",
+        "detail": "please greatly/enslave (fig)"
+    },
+    {
+        "name": "entice",
+        "detail": "tempt or persuade"
+    },
+    {
+        "name": "entreat",
+        "detail": "ask earnestly"
+    },
+    {
+        "name": "enunciate",
+        "detail": "pronounce (words)/express a theory"
+    },
+    {
+        "name": "enzyme",
+        "detail": "catalyst"
+    },
+    {
+        "name": "epicurean",
+        "detail": "devoted to pleasure (sensuous enjoyment)"
+    },
+    {
+        "name": "epistle",
+        "detail": "letter"
+    },
+    {
+        "name": "epithet",
+        "detail": "adjective"
+    },
+    {
+        "name": "epitome",
+        "detail": "brief summary representative example a typical model"
+    },
+    {
+        "name": "equable",
+        "detail": "steady regular"
+    },
+    {
+        "name": "equanimity",
+        "detail": "calmness of temperament"
+    },
+    {
+        "name": "equilibrium",
+        "detail": "state of being balanced"
+    },
+    {
+        "name": "equipoise",
+        "detail": "equal distribution of weight equilibrium"
+    },
+    {
+        "name": "equivocal",
+        "detail": "having a double or doubtful meaning suspicious"
+    },
+    {
+        "name": "equivocate",
+        "detail": "try to deceive by equivocal language"
+    },
+    {
+        "name": "eradicate",
+        "detail": "get rid of pull up by the roots"
+    },
+    {
+        "name": "erratic",
+        "detail": "irregular in behaviour or opinion"
+    },
+    {
+        "name": "erudite",
+        "detail": "learned scholarly"
+    },
+    {
+        "name": "eschew",
+        "detail": "avoid"
+    },
+    {
+        "name": "esoteric",
+        "detail": "abstruse intended only for a small circle of"
+    },
+    {
+        "name": "espouse",
+        "detail": "marry give one's support to"
+    },
+    {
+        "name": "eulogy",
+        "detail": "formal praise panegyric"
+    },
+    {
+        "name": "euphoria",
+        "detail": "elation state of pleasant excitement"
+    },
+    {
+        "name": "euthanasia",
+        "detail": "easy and painless death"
+    },
+    {
+        "name": "evasive",
+        "detail": "tending to evade"
+    },
+    {
+        "name": "evince",
+        "detail": "to show clearly to indicate"
+    },
+    {
+        "name": "evoke",
+        "detail": "call up bring out"
+    },
+    {
+        "name": "excoriation",
+        "detail": "severe criticism"
+    },
+    {
+        "name": "exculpate",
+        "detail": "to clear from a charge of guilt"
+    },
+    {
+        "name": "exhaustive",
+        "detail": "complete thorough"
+    },
+    {
+        "name": "exigency",
+        "detail": "emergency an urgent situation"
+    },
+    {
+        "name": "exoneration",
+        "detail": "set smb clear free (e.g.. from blame)"
+    },
+    {
+        "name": "exorbitant",
+        "detail": "much too high or great"
+    },
+    {
+        "name": "expatiate",
+        "detail": "to roam wander freely"
+    },
+    {
+        "name": "expedient",
+        "detail": "likely to be useful for a purpose"
+    },
+    {
+        "name": "expiation",
+        "detail": "ending expiring"
+    },
+    {
+        "name": "exploit",
+        "detail": "brilliant achievement develop use selfishly"
+    },
+    {
+        "name": "expostulate",
+        "detail": "argue earnestly to dissuade correct or protest"
+    },
+    {
+        "name": "expurgate",
+        "detail": "to remove obscenity purify censor"
+    },
+    {
+        "name": "exscind",
+        "detail": "to cut out cut away"
+    },
+    {
+        "name": "extant",
+        "detail": "still in existence"
+    },
+    {
+        "name": "extempore",
+        "detail": "without previous thought or preparation"
+    },
+    {
+        "name": "extenuate",
+        "detail": "reduce the strength of lessen seriousness partially excuse"
+    },
+    {
+        "name": "extinct",
+        "detail": "no longer active"
+    },
+    {
+        "name": "extinguish",
+        "detail": "end the existence of/wipe or put out"
+    },
+    {
+        "name": "extirpate",
+        "detail": "to destroy exterminate cut out exscind"
+    },
+    {
+        "name": "extol",
+        "detail": "praise highly"
+    },
+    {
+        "name": "extort",
+        "detail": "obtain by threats violence"
+    },
+    {
+        "name": "extralegal",
+        "detail": "outside the law"
+    },
+    {
+        "name": "extricable",
+        "detail": "that can be freed"
+    },
+    {
+        "name": "extrovert",
+        "detail": "cheerful person"
+    },
+    {
+        "name": "exuberance",
+        "detail": "state of growing vigorously being full of life"
+    },
+    {
+        "name": "facetious",
+        "detail": "humorous funny jocular"
+    },
+    {
+        "name": "facile",
+        "detail": "easily done"
+    },
+    {
+        "name": "fallacious",
+        "detail": "based on error"
+    },
+    {
+        "name": "falter",
+        "detail": "waver/move in an uncertain manner"
+    },
+    {
+        "name": "fatuous",
+        "detail": "without sense foolish self-satisfaction"
+    },
+    {
+        "name": "fawn",
+        "detail": "young deer try to win smb's favor"
+    },
+    {
+        "name": "feckless",
+        "detail": "lacking purpose or vitality ineffective careless"
+    },
+    {
+        "name": "fecund",
+        "detail": "fertile"
+    },
+    {
+        "name": "feint",
+        "detail": "pretend"
+    },
+    {
+        "name": "felicitous",
+        "detail": "apt suitably expressed well chosen apropos"
+    },
+    {
+        "name": "felon",
+        "detail": "person guilty of murder"
+    },
+    {
+        "name": "ferment",
+        "detail": "substance become excited"
+    },
+    {
+        "name": "ferocity",
+        "detail": "savage cruelty"
+    },
+    {
+        "name": "ferret",
+        "detail": "discover by searching search"
+    },
+    {
+        "name": "fervid",
+        "detail": "showing earnest feeling"
+    },
+    {
+        "name": "fervor",
+        "detail": "warmth of feelings earnestness"
+    },
+    {
+        "name": "fetid",
+        "detail": "stinking"
+    },
+    {
+        "name": "fetter",
+        "detail": "to shackle put in chains"
+    },
+    {
+        "name": "feud",
+        "detail": "bitter quarrel over a long period of time"
+    },
+    {
+        "name": "fidelity",
+        "detail": "loyalty accuracy"
+    },
+    {
+        "name": "fidget",
+        "detail": "move restlessly make nervous"
+    },
+    {
+        "name": "figurehead",
+        "detail": "carved image on the prow of a ship"
+    },
+    {
+        "name": "finesse",
+        "detail": "delicate way of dealing with a situation"
+    },
+    {
+        "name": "finical",
+        "detail": "too fussy about food clothing etc."
+    },
+    {
+        "name": "finicky",
+        "detail": "finical"
+    },
+    {
+        "name": "fission",
+        "detail": "splitting or division (esp. of cells)"
+    },
+    {
+        "name": "fixate",
+        "detail": "stare at"
+    },
+    {
+        "name": "flak",
+        "detail": "criticism/anti-aircraft guns"
+    },
+    {
+        "name": "flamboyant",
+        "detail": "brightly colored florid"
+    },
+    {
+        "name": "flaunting",
+        "detail": "show off complacently"
+    },
+    {
+        "name": "flax",
+        "detail": "pale yellow (hair) a plant"
+    },
+    {
+        "name": "fledged",
+        "detail": "able to fly trained experienced"
+    },
+    {
+        "name": "fleet",
+        "detail": "number of ships quick-moving"
+    },
+    {
+        "name": "flinch",
+        "detail": "draw move back wince"
+    },
+    {
+        "name": "flop",
+        "detail": "fail/move/fall clumsily"
+    },
+    {
+        "name": "florid",
+        "detail": "very much ornamented naturally red (e.g.. of face)"
+    },
+    {
+        "name": "flout",
+        "detail": "reject mock to go against (as in going against tradition)"
+    },
+    {
+        "name": "fluke",
+        "detail": "lucky stroke"
+    },
+    {
+        "name": "fluster",
+        "detail": "make nervous or confused"
+    },
+    {
+        "name": "foible",
+        "detail": "defect of character (a person is wrongly proud)"
+    },
+    {
+        "name": "foil",
+        "detail": "prevent from carrying out contrast"
+    },
+    {
+        "name": "foment",
+        "detail": "put smth warm (to lessen the pain)"
+    },
+    {
+        "name": "foolproof",
+        "detail": "incapable of failure or error"
+    },
+    {
+        "name": "foppish",
+        "detail": "like a man who pays too much attention to his clothes"
+    },
+    {
+        "name": "forage",
+        "detail": "food for horses and cattle"
+    },
+    {
+        "name": "forbear",
+        "detail": "refrain from be patient ancestor"
+    },
+    {
+        "name": "forbearance",
+        "detail": "patience willingness to wait"
+    },
+    {
+        "name": "ford",
+        "detail": "shallow place in a river (to cross)"
+    },
+    {
+        "name": "forestall",
+        "detail": "prevent by taking action in advance preempt"
+    },
+    {
+        "name": "forfeit",
+        "detail": "suffer the loss of smth"
+    },
+    {
+        "name": "forge",
+        "detail": "workshop for the shaping of metal to shape metal lead"
+    },
+    {
+        "name": "forgery",
+        "detail": "counterfeit"
+    },
+    {
+        "name": "forswear",
+        "detail": "renounce disallow repudiate"
+    },
+    {
+        "name": "foster",
+        "detail": "nurture care for"
+    },
+    {
+        "name": "fracas",
+        "detail": "noisy quarrel"
+    },
+    {
+        "name": "fragile",
+        "detail": "easily injured broken or destroyed"
+    },
+    {
+        "name": "fragrant",
+        "detail": "sweet-smelling"
+    },
+    {
+        "name": "frantic",
+        "detail": "wildly excited with joy pain anxiety"
+    },
+    {
+        "name": "frenetic",
+        "detail": "frantic frenzied"
+    },
+    {
+        "name": "fret",
+        "detail": "worry irritation wear away"
+    },
+    {
+        "name": "fringe",
+        "detail": "edge ornamental border part of hair over the forehead"
+    },
+    {
+        "name": "froward",
+        "detail": "intractable not willing to yield or comply stubborn"
+    },
+    {
+        "name": "frugal",
+        "detail": "careful economical"
+    },
+    {
+        "name": "fulmination",
+        "detail": "bitter protest"
+    },
+    {
+        "name": "fulsome",
+        "detail": "disgusting offensive due to excessiveness"
+    },
+    {
+        "name": "gainsay",
+        "detail": "to deny to oppose"
+    },
+    {
+        "name": "garble",
+        "detail": "make unfair selection from facts"
+    },
+    {
+        "name": "garment",
+        "detail": "article of clothing"
+    },
+    {
+        "name": "garner",
+        "detail": "to gather and save to store up"
+    },
+    {
+        "name": "garrulity",
+        "detail": "talkativeness"
+    },
+    {
+        "name": "garrulous",
+        "detail": "too talkative"
+    },
+    {
+        "name": "gaucherie",
+        "detail": "socially awkward tactless behavior"
+    },
+    {
+        "name": "germane",
+        "detail": "relevant pertinent to"
+    },
+    {
+        "name": "gist",
+        "detail": "the point general sense"
+    },
+    {
+        "name": "glean",
+        "detail": "gather facts in small quantities"
+    },
+    {
+        "name": "glib",
+        "detail": "ready and smooth but not sincere"
+    },
+    {
+        "name": "glimmer",
+        "detail": "weak/unsteady light"
+    },
+    {
+        "name": "gloat",
+        "detail": "over look at with selfish delight"
+    },
+    {
+        "name": "glut",
+        "detail": "supply to much fill to excess"
+    },
+    {
+        "name": "gnaw",
+        "detail": "waste away bite steadily"
+    },
+    {
+        "name": "goad",
+        "detail": "smth urging a person to action"
+    },
+    {
+        "name": "gorge",
+        "detail": "eat greedily/narrow opening with a stream"
+    },
+    {
+        "name": "gossamer",
+        "detail": "soft light delicate material"
+    },
+    {
+        "name": "gouge",
+        "detail": "tool for cutting grooves in wood"
+    },
+    {
+        "name": "grandiloquent",
+        "detail": "using pompous words"
+    },
+    {
+        "name": "grave",
+        "detail": "serious requiring consideration"
+    },
+    {
+        "name": "graze",
+        "detail": "touch or scrape lightly in passing"
+    },
+    {
+        "name": "gregarious",
+        "detail": "living in societies liking the company"
+    },
+    {
+        "name": "grievous",
+        "detail": "causing grief or pain serious dire grave"
+    },
+    {
+        "name": "grovel",
+        "detail": "crawl humble oneself"
+    },
+    {
+        "name": "guile",
+        "detail": "deceit cunning"
+    },
+    {
+        "name": "gullible",
+        "detail": "easily gulled"
+    },
+    {
+        "name": "gush",
+        "detail": "burst out suddenly/talk ardently"
+    },
+    {
+        "name": "gust",
+        "detail": "outburst of feeling sudden rain wind fire etc."
+    },
+    {
+        "name": "hack",
+        "detail": "cut roughly hired horse"
+    },
+    {
+        "name": "halcyon",
+        "detail": "calm and peaceful"
+    },
+    {
+        "name": "hallow",
+        "detail": "to make holy consecrate"
+    },
+    {
+        "name": "harangue",
+        "detail": "a long passionate speech"
+    },
+    {
+        "name": "harbinger",
+        "detail": "smth or smb that foretells the coming of"
+    },
+    {
+        "name": "harrow",
+        "detail": "to distress create stress or torment"
+    },
+    {
+        "name": "haughty",
+        "detail": "arrogant conceited"
+    },
+    {
+        "name": "heed",
+        "detail": "attention/give notice to"
+    },
+    {
+        "name": "heinous",
+        "detail": "odious (of crime)"
+    },
+    {
+        "name": "heresy",
+        "detail": "belief contrary to what is generally accepted"
+    },
+    {
+        "name": "hermetic",
+        "detail": "sealed by fusion"
+    },
+    {
+        "name": "heterogeneous",
+        "detail": "made up of different kinds"
+    },
+    {
+        "name": "hew",
+        "detail": "make by hard work cut (by striking)"
+    },
+    {
+        "name": "highbrow",
+        "detail": "(person) with superior tastes"
+    },
+    {
+        "name": "hirsute",
+        "detail": "hairy shaggy"
+    },
+    {
+        "name": "hoax",
+        "detail": "mischievous trick played on smb for a joke"
+    },
+    {
+        "name": "hoi",
+        "detail": "polloi the masses the rabble"
+    },
+    {
+        "name": "hollow",
+        "detail": "not soled with hole"
+    },
+    {
+        "name": "holster",
+        "detail": "leather case for a pistol"
+    },
+    {
+        "name": "homiletics",
+        "detail": "act of preaching"
+    },
+    {
+        "name": "hone",
+        "detail": "stone used for sharpening tools"
+    },
+    {
+        "name": "hoodwink",
+        "detail": "trick mislead"
+    },
+    {
+        "name": "hospitable",
+        "detail": "liking to give hospitality"
+    },
+    {
+        "name": "hubris",
+        "detail": "arrogant pride"
+    },
+    {
+        "name": "hush",
+        "detail": "make or become silent"
+    },
+    {
+        "name": "husk",
+        "detail": "worthless outside part of anything"
+    },
+    {
+        "name": "hypocrisy",
+        "detail": "falsely making oneself appear to be good"
+    },
+    {
+        "name": "iconoclast",
+        "detail": "person who attacks popular beliefs"
+    },
+    {
+        "name": "idiosyncrasy",
+        "detail": "personal mannerism"
+    },
+    {
+        "name": "idolatry",
+        "detail": "excessive admiration of"
+    },
+    {
+        "name": "idyll",
+        "detail": "a carefree episode or experience"
+    },
+    {
+        "name": "ignoble",
+        "detail": "dishonorable common undignified"
+    },
+    {
+        "name": "ignominious",
+        "detail": "shameful dishonorable undignified disgraceful"
+    },
+    {
+        "name": "illicit",
+        "detail": "unlawful forbidden"
+    },
+    {
+        "name": "imbroglio",
+        "detail": "complicated and embarrassing situation"
+    },
+    {
+        "name": "immaculate",
+        "detail": "pure faultless"
+    },
+    {
+        "name": "imminent",
+        "detail": "likely to come or happen soon"
+    },
+    {
+        "name": "immutable",
+        "detail": "that cannot be changed"
+    },
+    {
+        "name": "impair",
+        "detail": "worsen diminish in value"
+    },
+    {
+        "name": "impassive",
+        "detail": "unmoved feeling no sign of passion"
+    },
+    {
+        "name": "impecunious",
+        "detail": "having little or no money"
+    },
+    {
+        "name": "impede",
+        "detail": "hinder get in the way of"
+    },
+    {
+        "name": "impediment",
+        "detail": "smth that hinders (e.g. stammer)"
+    },
+    {
+        "name": "impending",
+        "detail": "imminent being about to happen expected"
+    },
+    {
+        "name": "imperative",
+        "detail": "urgent essential"
+    },
+    {
+        "name": "imperious",
+        "detail": "commanding haughty arrogant"
+    },
+    {
+        "name": "impermeable",
+        "detail": "that cannot be permeated"
+    },
+    {
+        "name": "imperturbable",
+        "detail": "calm not capable of being excited"
+    },
+    {
+        "name": "impervious",
+        "detail": "not allowing to pass through (of materials)"
+    },
+    {
+        "name": "imperviousness",
+        "detail": "haughty arrogant commanding"
+    },
+    {
+        "name": "impetuous",
+        "detail": "having sudden energy impulsive thrusting ahead forceful"
+    },
+    {
+        "name": "impiety",
+        "detail": "lack of reverence or dutifulness"
+    },
+    {
+        "name": "implacable",
+        "detail": "incapable of being placated unpleasable"
+    },
+    {
+        "name": "implicate",
+        "detail": "show that smb has a share"
+    },
+    {
+        "name": "implicit",
+        "detail": "implied though not plainly expressed"
+    },
+    {
+        "name": "implosion",
+        "detail": "collapse bursting inward"
+    },
+    {
+        "name": "importune",
+        "detail": "beg urgently solicit (of a prostitute)"
+    },
+    {
+        "name": "imprecation",
+        "detail": "an invocation of evil a curse"
+    },
+    {
+        "name": "impromptu",
+        "detail": "without preparation"
+    },
+    {
+        "name": "impudent",
+        "detail": "rash indiscreet"
+    },
+    {
+        "name": "impugned",
+        "detail": "challenged to be doubted"
+    },
+    {
+        "name": "impute",
+        "detail": "to attribute to a cause or source ascribe"
+    },
+    {
+        "name": "inadvertent",
+        "detail": "not paying proper attention"
+    },
+    {
+        "name": "inane",
+        "detail": "silly senseless"
+    },
+    {
+        "name": "inasmuch",
+        "detail": "since because"
+    },
+    {
+        "name": "incense",
+        "detail": "make angry"
+    },
+    {
+        "name": "incessant",
+        "detail": "often repeated continual"
+    },
+    {
+        "name": "inchoate",
+        "detail": "not yet fully formed rudimentary elementary"
+    },
+    {
+        "name": "incipient",
+        "detail": "beginning"
+    },
+    {
+        "name": "incise",
+        "detail": "engrave make a cut in"
+    },
+    {
+        "name": "incite",
+        "detail": "stir up rouse"
+    },
+    {
+        "name": "inclined",
+        "detail": "directing the mind in a certain direction"
+    },
+    {
+        "name": "incongruous",
+        "detail": "out of place not in harmony or agreement"
+    },
+    {
+        "name": "incorrigibility",
+        "detail": "cannot be cured or corrected"
+    },
+    {
+        "name": "incredulous",
+        "detail": "skeptical unwilling to believe"
+    },
+    {
+        "name": "inculcate",
+        "detail": "fix firmly by repetition"
+    },
+    {
+        "name": "incumbents",
+        "detail": "official duties"
+    },
+    {
+        "name": "incursion",
+        "detail": "a raid a sudden attack"
+    },
+    {
+        "name": "indefatigability",
+        "detail": "not easily exhaustible tirelessness"
+    },
+    {
+        "name": "indelible",
+        "detail": "that cannot be rubbed out"
+    },
+    {
+        "name": "indigence",
+        "detail": "poverty"
+    },
+    {
+        "name": "indigenous",
+        "detail": "native"
+    },
+    {
+        "name": "indistinct",
+        "detail": "not easily heard seen clearly marked"
+    },
+    {
+        "name": "indolence",
+        "detail": "laziness"
+    },
+    {
+        "name": "indomitable",
+        "detail": "not easily discouraged or subdued"
+    },
+    {
+        "name": "indulge",
+        "detail": "gratify give way to satisfy allow oneself"
+    },
+    {
+        "name": "indulgent",
+        "detail": "inclined to indulge"
+    },
+    {
+        "name": "ineffable",
+        "detail": "to great to be described in words"
+    },
+    {
+        "name": "ineluctable",
+        "detail": "certain inevitable"
+    },
+    {
+        "name": "inept",
+        "detail": "unskillful said or done at the wrong time"
+    },
+    {
+        "name": "ineptitude",
+        "detail": "quality of being unskillful"
+    },
+    {
+        "name": "inferno",
+        "detail": "hell"
+    },
+    {
+        "name": "infuriate",
+        "detail": "fill with fury or rage"
+    },
+    {
+        "name": "infuse",
+        "detail": "put pour fill"
+    },
+    {
+        "name": "ingenuous",
+        "detail": "naive young artless frank honest sincere"
+    },
+    {
+        "name": "ingest",
+        "detail": "take in by swallowing"
+    },
+    {
+        "name": "inimical",
+        "detail": "harmful or friendly"
+    },
+    {
+        "name": "inimitable",
+        "detail": "defying imitation unmatchable"
+    },
+    {
+        "name": "innocuous",
+        "detail": "causing no harm"
+    },
+    {
+        "name": "inscrutable",
+        "detail": "incapable of being discovered or understood"
+    },
+    {
+        "name": "insensible",
+        "detail": "unconscious unresponsive unaffected"
+    },
+    {
+        "name": "insinuate",
+        "detail": "suggest unpleasantly make a way for smth gently"
+    },
+    {
+        "name": "insipid",
+        "detail": "without taste or flavor"
+    },
+    {
+        "name": "insouciant",
+        "detail": "unconcerned carefree"
+    },
+    {
+        "name": "insularity",
+        "detail": "narrow-mindedness isolated"
+    },
+    {
+        "name": "insurrection",
+        "detail": "rising of people to open resistance to"
+    },
+    {
+        "name": "interdict",
+        "detail": "prohibit forbid"
+    },
+    {
+        "name": "interim",
+        "detail": "as an installment"
+    },
+    {
+        "name": "intersperse",
+        "detail": "place here and there"
+    },
+    {
+        "name": "intransigence",
+        "detail": "unwillingness to compromise stubbornness intractability"
+    },
+    {
+        "name": "intransigent",
+        "detail": "uncompromising"
+    },
+    {
+        "name": "intrepid",
+        "detail": "fearless brave undaunted"
+    },
+    {
+        "name": "introspection",
+        "detail": "examining one's own thoughts and feelings"
+    },
+    {
+        "name": "inundate",
+        "detail": "flood cover by overflowing"
+    },
+    {
+        "name": "inured",
+        "detail": "accustomed to adapted"
+    },
+    {
+        "name": "invective",
+        "detail": "abusive language curses"
+    },
+    {
+        "name": "inveigh",
+        "detail": "to attack verbally denounce deprecate"
+    },
+    {
+        "name": "inveterate",
+        "detail": "deep-rooted. long-established"
+    },
+    {
+        "name": "invincible",
+        "detail": "too strong to be defeated"
+    },
+    {
+        "name": "involute",
+        "detail": "complex"
+    },
+    {
+        "name": "irascible",
+        "detail": "irritable easily angered"
+    },
+    {
+        "name": "irate",
+        "detail": "angry"
+    },
+    {
+        "name": "ire",
+        "detail": "anger"
+    },
+    {
+        "name": "irksome",
+        "detail": "tiresome"
+    },
+    {
+        "name": "irresolute",
+        "detail": "hesitating undecided"
+    },
+    {
+        "name": "irrevocable",
+        "detail": "final and unalterable"
+    },
+    {
+        "name": "itinerate",
+        "detail": "to travel from place to place to peregrinate"
+    },
+    {
+        "name": "jabber",
+        "detail": "talk excitedly utter rapidly"
+    },
+    {
+        "name": "jibe",
+        "detail": "gibe make fun of"
+    },
+    {
+        "name": "jocular",
+        "detail": "meant as a joke"
+    },
+    {
+        "name": "judicious",
+        "detail": "sound in judgment wise"
+    },
+    {
+        "name": "knit",
+        "detail": "draw together unite firmly"
+    },
+    {
+        "name": "labyrinthine",
+        "detail": "to entangle the state of affairs"
+    },
+    {
+        "name": "lachrymose",
+        "detail": "causing tears tearful"
+    },
+    {
+        "name": "lackluster",
+        "detail": "(of eyes) dull"
+    },
+    {
+        "name": "lament",
+        "detail": "show feel great sorrow"
+    },
+    {
+        "name": "lassitude",
+        "detail": "weariness tiredness"
+    },
+    {
+        "name": "latent",
+        "detail": "present but not yet active developed or visible"
+    },
+    {
+        "name": "laudatory",
+        "detail": "expressing or giving praise"
+    },
+    {
+        "name": "lavish",
+        "detail": "giving or producing freely liberally or generously"
+    },
+    {
+        "name": "legacy",
+        "detail": "smth handed down from ancestors"
+    },
+    {
+        "name": "levee",
+        "detail": "formal reception/embankment"
+    },
+    {
+        "name": "levity",
+        "detail": "lack of seriousness"
+    },
+    {
+        "name": "libel",
+        "detail": "statement that damages reputation"
+    },
+    {
+        "name": "liberality",
+        "detail": "free giving generosity"
+    },
+    {
+        "name": "libertine",
+        "detail": "immoral person"
+    },
+    {
+        "name": "lien",
+        "detail": "legal claim until a debt on it is repaid"
+    },
+    {
+        "name": "limn",
+        "detail": "paint portray"
+    },
+    {
+        "name": "limp",
+        "detail": "lacking strength walking unevenly"
+    },
+    {
+        "name": "lionize",
+        "detail": "treat as a famous person"
+    },
+    {
+        "name": "lithe",
+        "detail": "bending twisting"
+    },
+    {
+        "name": "loll",
+        "detail": "rest to sit or stand in a lazy way hang (dog's tongue)"
+    },
+    {
+        "name": "lope",
+        "detail": "move along with long strides"
+    },
+    {
+        "name": "loquacious",
+        "detail": "talkative garrulous"
+    },
+    {
+        "name": "lucubrate",
+        "detail": "write in scholarly fashion"
+    },
+    {
+        "name": "luculent",
+        "detail": "easily understood lucid clear"
+    },
+    {
+        "name": "lugubrious",
+        "detail": "mournful excessively sad"
+    },
+    {
+        "name": "lull",
+        "detail": "become quiet or less active"
+    },
+    {
+        "name": "lumber",
+        "detail": "move in a clumsy/noisy way"
+    },
+    {
+        "name": "luminary",
+        "detail": "star light-giving body"
+    },
+    {
+        "name": "lurk",
+        "detail": "be out of view ready to attack"
+    },
+    {
+        "name": "lustrous",
+        "detail": "being bright polished"
+    },
+    {
+        "name": "macabre",
+        "detail": "gruesome suggesting death"
+    },
+    {
+        "name": "macerate",
+        "detail": "make or become soft by soaking in water"
+    },
+    {
+        "name": "machination",
+        "detail": "plot scheme (esp. evil)"
+    },
+    {
+        "name": "maladroit",
+        "detail": "tactless clumsy"
+    },
+    {
+        "name": "malapropism",
+        "detail": "misuse of a word (for one that resembles it)"
+    },
+    {
+        "name": "malevolence",
+        "detail": "wishing to do evil"
+    },
+    {
+        "name": "malign",
+        "detail": "injurious speak ill of smb tell lie"
+    },
+    {
+        "name": "malinger",
+        "detail": "to fake illness or injury in order to shirk a duty"
+    },
+    {
+        "name": "malleable",
+        "detail": "yielding easily shaped moldable adapting"
+    },
+    {
+        "name": "manacle",
+        "detail": "chains for the hands or feet"
+    },
+    {
+        "name": "massacre",
+        "detail": "cruel killing of a large number of people"
+    },
+    {
+        "name": "matriculation",
+        "detail": "be admitted enter a university as a student"
+    },
+    {
+        "name": "maudlin",
+        "detail": "sentimental in a silly or tearful way"
+    },
+    {
+        "name": "maul",
+        "detail": "hurt by rough handling"
+    },
+    {
+        "name": "maverick",
+        "detail": "rebel nonconformist"
+    },
+    {
+        "name": "mellifluous",
+        "detail": "sweetly flowing"
+    },
+    {
+        "name": "mendacity",
+        "detail": "dishonesty"
+    },
+    {
+        "name": "mendicant",
+        "detail": "a beggar"
+    },
+    {
+        "name": "mercurial",
+        "detail": "quick changeable in character fleeting"
+    },
+    {
+        "name": "meretricious",
+        "detail": "attractive on the surface but of little value"
+    },
+    {
+        "name": "mesmerize",
+        "detail": "hypnotize"
+    },
+    {
+        "name": "meticulous",
+        "detail": "giving great attention to details"
+    },
+    {
+        "name": "mettle",
+        "detail": "quality of endurance or courage"
+    },
+    {
+        "name": "mettlesome",
+        "detail": "courageous high-spirited"
+    },
+    {
+        "name": "middling",
+        "detail": "fairly good but not very good"
+    },
+    {
+        "name": "minatory",
+        "detail": "menacing threatening"
+    },
+    {
+        "name": "mince",
+        "detail": "pronounce or speak affectedly euphemize"
+    },
+    {
+        "name": "misanthrope",
+        "detail": "person who hates mankind"
+    },
+    {
+        "name": "mischievous",
+        "detail": "harmful causing mischief"
+    },
+    {
+        "name": "miser",
+        "detail": "person who loves wealth and spends little"
+    },
+    {
+        "name": "misogynist",
+        "detail": "one who hates women/females"
+    },
+    {
+        "name": "moderation",
+        "detail": "quality of being limited not extreme"
+    },
+    {
+        "name": "mollify",
+        "detail": "make calmer or quieter"
+    },
+    {
+        "name": "molt",
+        "detail": "moult lose hair feathers before new growing"
+    },
+    {
+        "name": "morbid",
+        "detail": "diseased unhealthy (e.g.. about ideas)"
+    },
+    {
+        "name": "morose",
+        "detail": "ill-tempered unsocial"
+    },
+    {
+        "name": "muffler",
+        "detail": "cloth worn round the neck/silencer"
+    },
+    {
+        "name": "multifarious",
+        "detail": "varied motley greatly diversified"
+    },
+    {
+        "name": "mundane",
+        "detail": "worldly as opposed to spiritual commonplace everyday"
+    },
+    {
+        "name": "myriad",
+        "detail": "very great number"
+    },
+    {
+        "name": "nadir",
+        "detail": "lowest weakest point"
+    },
+    {
+        "name": "nascent",
+        "detail": "coming into existence emerging"
+    },
+    {
+        "name": "nebulous",
+        "detail": "cloud-like hazy vague indistinct"
+    },
+    {
+        "name": "negligent",
+        "detail": "taking too little care"
+    },
+    {
+        "name": "neophyte",
+        "detail": "person who has been converted to a belief"
+    },
+    {
+        "name": "nexus",
+        "detail": "a connection tie or link"
+    },
+    {
+        "name": "nibble",
+        "detail": "show some inclination to accept (an offer)"
+    },
+    {
+        "name": "noisome",
+        "detail": "offensive disgusting (smell)"
+    },
+    {
+        "name": "nonchalant",
+        "detail": "not having interest"
+    },
+    {
+        "name": "nonplused",
+        "detail": "greatly surprised"
+    },
+    {
+        "name": "nostrum",
+        "detail": "a quack remedy an untested cure"
+    },
+    {
+        "name": "noxious",
+        "detail": "harmful"
+    },
+    {
+        "name": "nugatory",
+        "detail": "trifling/worthless"
+    },
+    {
+        "name": "obdurate",
+        "detail": "hardened and unrepenting stubborn inflexible"
+    },
+    {
+        "name": "obfuscate",
+        "detail": "to darken make obscure muddle"
+    },
+    {
+        "name": "oblivious",
+        "detail": "unaware having no memory"
+    },
+    {
+        "name": "obloquy",
+        "detail": "abusively detractive language sharp criticism vituperation"
+    },
+    {
+        "name": "obsequious",
+        "detail": "too eager to obey or serve"
+    },
+    {
+        "name": "obstreperous",
+        "detail": "noisy loud"
+    },
+    {
+        "name": "obtain",
+        "detail": "to be established accepted or customary"
+    },
+    {
+        "name": "obtrusive",
+        "detail": "projecting prominent undesirably noticeable"
+    },
+    {
+        "name": "obtuse",
+        "detail": "blunt/stupid"
+    },
+    {
+        "name": "obviate",
+        "detail": "to make unnecessary get rid of"
+    },
+    {
+        "name": "occluded",
+        "detail": "blocked up"
+    },
+    {
+        "name": "odious",
+        "detail": "repulsive hateful"
+    },
+    {
+        "name": "odium",
+        "detail": "contempt dislike aversion"
+    },
+    {
+        "name": "odor",
+        "detail": "smell favor reputation"
+    },
+    {
+        "name": "officious",
+        "detail": "too eager or ready to help offer advice"
+    },
+    {
+        "name": "ominous",
+        "detail": "threatening"
+    },
+    {
+        "name": "onerous",
+        "detail": "needing effort burdensome"
+    },
+    {
+        "name": "opaqueness",
+        "detail": "dullness/not allowing light to pass through"
+    },
+    {
+        "name": "opprobrious",
+        "detail": "showing scorn or reproach"
+    },
+    {
+        "name": "ossify",
+        "detail": "to turn to bone to settle rigidly into an idea"
+    },
+    {
+        "name": "ostensible",
+        "detail": "seeming appearing as such professed"
+    },
+    {
+        "name": "ostentation",
+        "detail": "display to obtain admiration or envy"
+    },
+    {
+        "name": "ostracism",
+        "detail": "shut out from society refuse to meet talk"
+    },
+    {
+        "name": "overhaul",
+        "detail": "examine thoroughly to learn about the condition"
+    },
+    {
+        "name": "overweening",
+        "detail": "presumptuously arrogant overbearing immoderate being a jerk"
+    },
+    {
+        "name": "paean",
+        "detail": "song of praise or triumph"
+    },
+    {
+        "name": "palate",
+        "detail": "roof of the mouth sense of taste"
+    },
+    {
+        "name": "palatial",
+        "detail": "magnificent"
+    },
+    {
+        "name": "palliate",
+        "detail": "lessen the severity of"
+    },
+    {
+        "name": "palpability",
+        "detail": "can be felt touched understood"
+    },
+    {
+        "name": "palpitate",
+        "detail": "tremble beat rapidly and irregularly"
+    },
+    {
+        "name": "panegyric",
+        "detail": "formal praise eulogy"
+    },
+    {
+        "name": "paradigm",
+        "detail": "a model example or pattern"
+    },
+    {
+        "name": "parenthesis",
+        "detail": "sentence within another one smth separated"
+    },
+    {
+        "name": "pariah",
+        "detail": "an outcast a rejected and despised person"
+    },
+    {
+        "name": "parsimonious",
+        "detail": "too economical miserly"
+    },
+    {
+        "name": "partisan",
+        "detail": "one-sided committed to a party biased or prejudiced"
+    },
+    {
+        "name": "patron",
+        "detail": "regular customer person who gives support"
+    },
+    {
+        "name": "paucity",
+        "detail": "scarcity a lacking of"
+    },
+    {
+        "name": "peccadillo",
+        "detail": "small sin small weakness in one's character"
+    },
+    {
+        "name": "pedantic",
+        "detail": "bookish showing off learning"
+    },
+    {
+        "name": "pedestrian",
+        "detail": "commonplace trite unremarkable"
+    },
+    {
+        "name": "pellucid",
+        "detail": "transparent easy to understand"
+    },
+    {
+        "name": "penchant",
+        "detail": "strong inclination a liking"
+    },
+    {
+        "name": "penitent",
+        "detail": "feeling or showing regret"
+    },
+    {
+        "name": "penurious",
+        "detail": "poor/stingy"
+    },
+    {
+        "name": "penury",
+        "detail": "extreme poverty"
+    },
+    {
+        "name": "peregrination",
+        "detail": "traveling about wandering"
+    },
+    {
+        "name": "peremptory",
+        "detail": "urgent imperative unchallengeable ending debate"
+    },
+    {
+        "name": "perfidious",
+        "detail": "treacherous faithless"
+    },
+    {
+        "name": "perfidy",
+        "detail": "treachery breaking of faith"
+    },
+    {
+        "name": "perfunctory",
+        "detail": "done as a duty without care"
+    },
+    {
+        "name": "perilous",
+        "detail": "dangerous"
+    },
+    {
+        "name": "peripatetic",
+        "detail": "wandering"
+    },
+    {
+        "name": "perish",
+        "detail": "be destroyed decay"
+    },
+    {
+        "name": "perjury",
+        "detail": "willful FALSE statement unlawful act"
+    },
+    {
+        "name": "permeate",
+        "detail": "spread into every part of"
+    },
+    {
+        "name": "pernicious",
+        "detail": "harmful injurious"
+    },
+    {
+        "name": "perpetrate",
+        "detail": "be guilty commit (a crime)"
+    },
+    {
+        "name": "personable",
+        "detail": "pleasing in appearance attractive"
+    },
+    {
+        "name": "perspicacity",
+        "detail": "quick judging and understanding"
+    },
+    {
+        "name": "pertain",
+        "detail": "belong as a part have reference"
+    },
+    {
+        "name": "pest",
+        "detail": "destructive thing or a person who is nuisance"
+    },
+    {
+        "name": "petrified",
+        "detail": "taken away power (to think feel act)"
+    },
+    {
+        "name": "petrify",
+        "detail": "to make hard rocklike"
+    },
+    {
+        "name": "petrous",
+        "detail": "like a rock hard stony"
+    },
+    {
+        "name": "petulant",
+        "detail": "unreasonably impatient"
+    },
+    {
+        "name": "philistine",
+        "detail": "a smug ignorant person one who lacks knowledge"
+    },
+    {
+        "name": "phlegmatic",
+        "detail": "calm sluggish temperament unemotional"
+    },
+    {
+        "name": "picaresque",
+        "detail": "involving clever rogues or adventurers"
+    },
+    {
+        "name": "pied",
+        "detail": "of mixed colors"
+    },
+    {
+        "name": "pinch",
+        "detail": "be too tight take between the thumb and finger"
+    },
+    {
+        "name": "pine",
+        "detail": "waste away through sorrow or illness"
+    },
+    {
+        "name": "pious",
+        "detail": "dutiful to parents devoted to religion"
+    },
+    {
+        "name": "piquant",
+        "detail": "agreeably pungent stimulating"
+    },
+    {
+        "name": "pique",
+        "detail": "hurt the pride or self-respect stir (curiosity)"
+    },
+    {
+        "name": "pitfall",
+        "detail": "covered hole as a trap unsuspected danger"
+    },
+    {
+        "name": "pith",
+        "detail": "essential part force soft liquid substance"
+    },
+    {
+        "name": "pivotal",
+        "detail": "of great importance (others depend on it)"
+    },
+    {
+        "name": "placate",
+        "detail": "soothe pacify calm"
+    },
+    {
+        "name": "plaintive",
+        "detail": "mournful melancholy sorrowful"
+    },
+    {
+        "name": "plaque",
+        "detail": "flat metal on a wall as a memorial"
+    },
+    {
+        "name": "platitude",
+        "detail": "a trite or banal statement unoriginality"
+    },
+    {
+        "name": "plea",
+        "detail": "request"
+    },
+    {
+        "name": "plead",
+        "detail": "address a court of law as an advocate"
+    },
+    {
+        "name": "plethora",
+        "detail": "glut"
+    },
+    {
+        "name": "pliant",
+        "detail": "pliable easily bent shaped or twisted"
+    },
+    {
+        "name": "plod",
+        "detail": "continue doing smth without resting"
+    },
+    {
+        "name": "pluck",
+        "detail": "pull the feathers off pick (e.g.. flowers)"
+    },
+    {
+        "name": "plumb",
+        "detail": "get to the root of"
+    },
+    {
+        "name": "plummet",
+        "detail": "fall plunge steeply"
+    },
+    {
+        "name": "plunge",
+        "detail": "move quickly suddenly and with force"
+    },
+    {
+        "name": "poignant",
+        "detail": "deeply moving keen"
+    },
+    {
+        "name": "poncho",
+        "detail": "large piece of cloth"
+    },
+    {
+        "name": "ponderous",
+        "detail": "heavy bulky dull"
+    },
+    {
+        "name": "portent",
+        "detail": "omen marvelous threatening"
+    },
+    {
+        "name": "precarious",
+        "detail": "uncertain risky dangerous"
+    },
+    {
+        "name": "precepts",
+        "detail": "rules establishing standards of conduct"
+    },
+    {
+        "name": "preclude",
+        "detail": "prevent make impossible"
+    },
+    {
+        "name": "precursory",
+        "detail": "preliminary anticipating"
+    },
+    {
+        "name": "predilection",
+        "detail": "special liking mental preference"
+    },
+    {
+        "name": "predominate",
+        "detail": "have more power than others"
+    },
+    {
+        "name": "preen",
+        "detail": "tidy/show self-satisfaction"
+    },
+    {
+        "name": "premature",
+        "detail": "doing or happening smth before the right time"
+    },
+    {
+        "name": "preponderance",
+        "detail": "greatness in number strength weight"
+    },
+    {
+        "name": "presage",
+        "detail": "warning sign"
+    },
+    {
+        "name": "presumption",
+        "detail": "arrogance"
+    },
+    {
+        "name": "preternatural",
+        "detail": "not normal or usual"
+    },
+    {
+        "name": "prevalent",
+        "detail": "common"
+    },
+    {
+        "name": "prevaricate",
+        "detail": "to equivocate to stray from the truth"
+    },
+    {
+        "name": "prim",
+        "detail": "neat formal"
+    },
+    {
+        "name": "pristine",
+        "detail": "primitive unspoiled pure as in earlier times unadulterated"
+    },
+    {
+        "name": "probity",
+        "detail": "uprightness incorruptibility principle"
+    },
+    {
+        "name": "proclivity",
+        "detail": "inclination"
+    },
+    {
+        "name": "procrastination",
+        "detail": "keeping on putting off"
+    },
+    {
+        "name": "prodigal",
+        "detail": "wasteful reckless with money"
+    },
+    {
+        "name": "prodigious",
+        "detail": "enormous wonderful"
+    },
+    {
+        "name": "profane",
+        "detail": "worldly having contempt for God"
+    },
+    {
+        "name": "profligacy",
+        "detail": "shameless immorality"
+    },
+    {
+        "name": "profligate",
+        "detail": "wasteful prodigal licentious extravagant"
+    },
+    {
+        "name": "profundity",
+        "detail": "depth"
+    },
+    {
+        "name": "profuse",
+        "detail": "abundant/lavish"
+    },
+    {
+        "name": "proliferate",
+        "detail": "grow reproduce by rapid multification"
+    },
+    {
+        "name": "prolix",
+        "detail": "tiring because too long"
+    },
+    {
+        "name": "prone",
+        "detail": "prostrate inclined to (undesirable things)"
+    },
+    {
+        "name": "propagation",
+        "detail": "increasing the number spreading extending"
+    },
+    {
+        "name": "propinquity",
+        "detail": "nearness in time or place affinity of nature"
+    },
+    {
+        "name": "propitiatory",
+        "detail": "conciliatory appeasing mitigating"
+    },
+    {
+        "name": "propitious",
+        "detail": "auspicious presenting favorable circumstances"
+    },
+    {
+        "name": "prosaic",
+        "detail": "everyday mundane commonplace trite pedestrian"
+    },
+    {
+        "name": "proscribe",
+        "detail": "denounce as dangerous"
+    },
+    {
+        "name": "protracted",
+        "detail": "prolonged"
+    },
+    {
+        "name": "provident",
+        "detail": "frugal looking to the future"
+    },
+    {
+        "name": "provisional",
+        "detail": "of the present time only"
+    },
+    {
+        "name": "provoke",
+        "detail": "make angry vax"
+    },
+    {
+        "name": "prudence",
+        "detail": "careful forethought"
+    },
+    {
+        "name": "prudish",
+        "detail": "easily shocked excessively modest"
+    },
+    {
+        "name": "prune",
+        "detail": "dried plum silly person"
+    },
+    {
+        "name": "pry",
+        "detail": "get smth inquire too curiously"
+    },
+    {
+        "name": "pucker",
+        "detail": "wrinkle"
+    },
+    {
+        "name": "pugnacious",
+        "detail": "fond of in the habit of fighting"
+    },
+    {
+        "name": "puissance",
+        "detail": "strength"
+    },
+    {
+        "name": "punctilious",
+        "detail": "precise paying attention to trivialities"
+    },
+    {
+        "name": "pundit",
+        "detail": "pedant authority on a subject"
+    },
+    {
+        "name": "pungency",
+        "detail": "sharpness stinging quality"
+    },
+    {
+        "name": "purvey",
+        "detail": "provide supply"
+    },
+    {
+        "name": "pusillanimous",
+        "detail": "cowardly craven"
+    },
+    {
+        "name": "putrefaction",
+        "detail": "becoming rotten"
+    },
+    {
+        "name": "pyre",
+        "detail": "large pile of wood for burning"
+    },
+    {
+        "name": "quack",
+        "detail": "person dishonestly claiming to smth"
+    },
+    {
+        "name": "quaff",
+        "detail": "drink deeply"
+    },
+    {
+        "name": "quail",
+        "detail": "lose courage turn frightened"
+    },
+    {
+        "name": "qualm",
+        "detail": "feeling of doubt temporary feeling of sickness"
+    },
+    {
+        "name": "quandary",
+        "detail": "state of doubt or perplexity"
+    },
+    {
+        "name": "quell",
+        "detail": "suppress subdue"
+    },
+    {
+        "name": "quibble",
+        "detail": "try to avoid by sophistication"
+    },
+    {
+        "name": "quiescence",
+        "detail": "state of being passive/motionless"
+    },
+    {
+        "name": "quiescent",
+        "detail": "at rest dormant torpid"
+    },
+    {
+        "name": "quirk",
+        "detail": "habit or action peculiar to smb or smth"
+    },
+    {
+        "name": "quixotic",
+        "detail": "generous unselfish"
+    },
+    {
+        "name": "quotidian",
+        "detail": "banal everyday"
+    },
+    {
+        "name": "rabble",
+        "detail": "mob crowd the lower classes of populace"
+    },
+    {
+        "name": "raconteur",
+        "detail": "person who tells anecdotes"
+    },
+    {
+        "name": "raffish",
+        "detail": "low vulgar base tawdry"
+    },
+    {
+        "name": "ramify",
+        "detail": "to be divided or subdivided to branch out"
+    },
+    {
+        "name": "rancorous",
+        "detail": "feeling bitterness spitefulness"
+    },
+    {
+        "name": "rant",
+        "detail": "use extravagant language"
+    },
+    {
+        "name": "rapacious",
+        "detail": "greedy (esp for money)"
+    },
+    {
+        "name": "rarefy",
+        "detail": "to make thin to make less dense to purify or refine"
+    },
+    {
+        "name": "rave",
+        "detail": "act with excessive enthusiasm"
+    },
+    {
+        "name": "reactionary",
+        "detail": "opposing progress"
+    },
+    {
+        "name": "rebuff",
+        "detail": "snub"
+    },
+    {
+        "name": "recalcitrant",
+        "detail": "disobedient"
+    },
+    {
+        "name": "recant",
+        "detail": "take back as being FALSE give up"
+    },
+    {
+        "name": "recast",
+        "detail": "cast or fashion anew"
+    },
+    {
+        "name": "recidivism",
+        "detail": "relapse into antisocial or criminal behavior"
+    },
+    {
+        "name": "reciprocity",
+        "detail": "granting of privileges in return for similar"
+    },
+    {
+        "name": "recitals",
+        "detail": "a number of performance of music"
+    },
+    {
+        "name": "recluse",
+        "detail": "person who lives alone and avoids people"
+    },
+    {
+        "name": "recompense",
+        "detail": "make payment to reward punish"
+    },
+    {
+        "name": "reconcile",
+        "detail": "settle a quarrel restore peace"
+    },
+    {
+        "name": "recondite",
+        "detail": "little known abstruse"
+    },
+    {
+        "name": "recreancy",
+        "detail": "cowardice a cowardly giving up"
+    },
+    {
+        "name": "recuperate",
+        "detail": "become strong after illness loss exhaustion"
+    },
+    {
+        "name": "redeem",
+        "detail": "get back by payment compensate"
+    },
+    {
+        "name": "redoubtable",
+        "detail": "formidable causing fear"
+    },
+    {
+        "name": "refine",
+        "detail": "make or become pure cultural"
+    },
+    {
+        "name": "refractory",
+        "detail": "stubborn unmanageable untractable"
+    },
+    {
+        "name": "refulgent",
+        "detail": "shining brilliant"
+    },
+    {
+        "name": "regale",
+        "detail": "to delight or entertain to feast"
+    },
+    {
+        "name": "regicide",
+        "detail": "crime of killing a king"
+    },
+    {
+        "name": "reiterate",
+        "detail": "say or do again several times"
+    },
+    {
+        "name": "rejuvenation",
+        "detail": "becoming young in nature or appearance"
+    },
+    {
+        "name": "relapse",
+        "detail": "fall back again"
+    },
+    {
+        "name": "remonstrate",
+        "detail": "to protest object"
+    },
+    {
+        "name": "render",
+        "detail": "deliver provide represent"
+    },
+    {
+        "name": "renovate",
+        "detail": "restore smth to better condition"
+    },
+    {
+        "name": "renowned",
+        "detail": "celebrated famous"
+    },
+    {
+        "name": "repast",
+        "detail": "meal"
+    },
+    {
+        "name": "repel",
+        "detail": "refuse to accept/cause dislike"
+    },
+    {
+        "name": "repine",
+        "detail": "at be discontented with"
+    },
+    {
+        "name": "reproach",
+        "detail": "scold upbraid"
+    },
+    {
+        "name": "reprobate",
+        "detail": "person hardened in sin one devoid of decency"
+    },
+    {
+        "name": "repudiate",
+        "detail": "disown refuse to accept or pay"
+    },
+    {
+        "name": "repulsive",
+        "detail": "causing a feeling of disgust"
+    },
+    {
+        "name": "requite",
+        "detail": "repay give in return"
+    },
+    {
+        "name": "rescind",
+        "detail": "repeal/annul/cancel"
+    },
+    {
+        "name": "resigned",
+        "detail": "unresisting submissive"
+    },
+    {
+        "name": "resilience",
+        "detail": "quality of quickly recovering the original shape"
+    },
+    {
+        "name": "resort",
+        "detail": "to frequently visit"
+    },
+    {
+        "name": "restive",
+        "detail": "refusing to move reluctant to be controlled"
+    },
+    {
+        "name": "resuscitation",
+        "detail": "coming back to consciousness"
+    },
+    {
+        "name": "retard",
+        "detail": "check hinder"
+    },
+    {
+        "name": "reticent",
+        "detail": "reserved untalkative silent taciturn"
+    },
+    {
+        "name": "revere",
+        "detail": "have deep respect for"
+    },
+    {
+        "name": "reverent",
+        "detail": "feeling or showing deep respect"
+    },
+    {
+        "name": "riddle",
+        "detail": "puzzling person or thing"
+    },
+    {
+        "name": "rift",
+        "detail": "split crack dissension"
+    },
+    {
+        "name": "rivet",
+        "detail": "fix take up secure metal pin"
+    },
+    {
+        "name": "roll",
+        "detail": "call calling of names"
+    },
+    {
+        "name": "rotund",
+        "detail": "rich and deep plump and round"
+    },
+    {
+        "name": "ruffian",
+        "detail": "violent cruel man"
+    },
+    {
+        "name": "rumple",
+        "detail": "make rough"
+    },
+    {
+        "name": "sagacious",
+        "detail": "having sound judgment perceptive wise like a sage"
+    },
+    {
+        "name": "salacious",
+        "detail": "obscene"
+    },
+    {
+        "name": "salubrious",
+        "detail": "healthful"
+    },
+    {
+        "name": "salutary",
+        "detail": "remedial wholesome causing improvement"
+    },
+    {
+        "name": "sanctimony",
+        "detail": "self-righteousness hypocritical with FALSE piety"
+    },
+    {
+        "name": "sanction",
+        "detail": "approval (by authority) penalty"
+    },
+    {
+        "name": "sanguine",
+        "detail": "cheerful confident optimistic"
+    },
+    {
+        "name": "sanity",
+        "detail": "health of mind soundness of judgement"
+    },
+    {
+        "name": "sash",
+        "detail": "long strip worn round the waist"
+    },
+    {
+        "name": "satiate",
+        "detail": "satisfy fully"
+    },
+    {
+        "name": "saturnine",
+        "detail": "gloomy dark sullen morose"
+    },
+    {
+        "name": "savant",
+        "detail": "person of great learning"
+    },
+    {
+        "name": "savor",
+        "detail": "taste flavor smth"
+    },
+    {
+        "name": "sawdust",
+        "detail": "tiny bits of wood"
+    },
+    {
+        "name": "scabbard",
+        "detail": "sheath for the blade"
+    },
+    {
+        "name": "scent",
+        "detail": "smell (esp pleasant)"
+    },
+    {
+        "name": "scorch",
+        "detail": "become discolored/dry up/go at high speed"
+    },
+    {
+        "name": "scribble",
+        "detail": "write hastily"
+    },
+    {
+        "name": "scurvy",
+        "detail": "mean contemptible"
+    },
+    {
+        "name": "secular",
+        "detail": "material (not spiritual) living outside monasteries"
+    },
+    {
+        "name": "sedulous",
+        "detail": "persevering"
+    },
+    {
+        "name": "seminal",
+        "detail": "like a seed constituting a source originative"
+    },
+    {
+        "name": "sententious",
+        "detail": "short and pithy full of maxims/proverbs"
+    },
+    {
+        "name": "sequence",
+        "detail": "succession connected line of"
+    },
+    {
+        "name": "sere",
+        "detail": "make hard and without feeling"
+    },
+    {
+        "name": "sermon",
+        "detail": "reproving a person for his faults"
+    },
+    {
+        "name": "serrated",
+        "detail": "having a toothed edge"
+    },
+    {
+        "name": "serration",
+        "detail": "having a toothed edge"
+    },
+    {
+        "name": "servile",
+        "detail": "like a slave lacking independence"
+    },
+    {
+        "name": "sever",
+        "detail": "break off"
+    },
+    {
+        "name": "severance",
+        "detail": "severing"
+    },
+    {
+        "name": "shallow",
+        "detail": "little depth not earnest"
+    },
+    {
+        "name": "shard",
+        "detail": "piece of broken earthenware"
+    },
+    {
+        "name": "sheath",
+        "detail": "cover for the blade of a weapon or a tool"
+    },
+    {
+        "name": "shrewd",
+        "detail": "astute showing sound judgement"
+    },
+    {
+        "name": "shrill",
+        "detail": "sharp piercing"
+    },
+    {
+        "name": "shun",
+        "detail": "keep away from avoid"
+    },
+    {
+        "name": "shunt",
+        "detail": "send from one track to another lay aside evade discussion"
+    },
+    {
+        "name": "sidestep",
+        "detail": "step to one side"
+    },
+    {
+        "name": "simper",
+        "detail": "(give a) silly/self-conscious smile"
+    },
+    {
+        "name": "sinuous",
+        "detail": "winding undulating serpentine"
+    },
+    {
+        "name": "skiff",
+        "detail": "small boat"
+    },
+    {
+        "name": "skit",
+        "detail": "short piece of humorous writing"
+    },
+    {
+        "name": "slack",
+        "detail": "sluggish dull not tight"
+    },
+    {
+        "name": "slake",
+        "detail": "to assuage to satisfy allay"
+    },
+    {
+        "name": "slate",
+        "detail": "king of blue-grey stone propose criticize"
+    },
+    {
+        "name": "sluggard",
+        "detail": "lazy slow-moving person"
+    },
+    {
+        "name": "slur",
+        "detail": "join sounds/words (indistinct)"
+    },
+    {
+        "name": "smolder",
+        "detail": "burn slowly without flame"
+    },
+    {
+        "name": "snare",
+        "detail": "trap"
+    },
+    {
+        "name": "snub",
+        "detail": "treat with contempt"
+    },
+    {
+        "name": "soar",
+        "detail": "rise fly high"
+    },
+    {
+        "name": "sober",
+        "detail": "self-controlled"
+    },
+    {
+        "name": "sobriety",
+        "detail": "quality or condition of being sober"
+    },
+    {
+        "name": "sodden",
+        "detail": "soaked saturated"
+    },
+    {
+        "name": "soggy",
+        "detail": "heavy with water"
+    },
+    {
+        "name": "solvent",
+        "detail": "of the power of forming a solution"
+    },
+    {
+        "name": "somatic",
+        "detail": "of the body"
+    },
+    {
+        "name": "soot",
+        "detail": "black powder in smoke"
+    },
+    {
+        "name": "sophisticated",
+        "detail": "complex subtle refined"
+    },
+    {
+        "name": "sophistry",
+        "detail": "fallacious reasoning faulty logic"
+    },
+    {
+        "name": "sophomoric",
+        "detail": "self-assured though immature affected bombastic overblown"
+    },
+    {
+        "name": "soporific",
+        "detail": "producing sleep"
+    },
+    {
+        "name": "sordid",
+        "detail": "wretched comfortless contemptible"
+    },
+    {
+        "name": "spear",
+        "detail": "weapon with a metal point on a long shaft"
+    },
+    {
+        "name": "specious",
+        "detail": "illogical of questionable truth or merit"
+    },
+    {
+        "name": "splenetic",
+        "detail": "bad-tempered irritable"
+    },
+    {
+        "name": "splice",
+        "detail": "join (two ends)"
+    },
+    {
+        "name": "sponge",
+        "detail": "porous rubber for washing live at once expense"
+    },
+    {
+        "name": "spurious",
+        "detail": "FALSE counterfeit"
+    },
+    {
+        "name": "spurn",
+        "detail": "have nothing to do reject or refuse"
+    },
+    {
+        "name": "squalid",
+        "detail": "foul filthy"
+    },
+    {
+        "name": "squander",
+        "detail": "spend wastefully"
+    },
+    {
+        "name": "squat",
+        "detail": "crouch/settle without permission"
+    },
+    {
+        "name": "stanch",
+        "detail": "to stop the flow of a fluid"
+    },
+    {
+        "name": "steeply",
+        "detail": "rising or falling sharply"
+    },
+    {
+        "name": "stentorian",
+        "detail": "extremely loud and powerful"
+    },
+    {
+        "name": "stickler",
+        "detail": "person who insists on importance of smth"
+    },
+    {
+        "name": "stigma",
+        "detail": "mark of shame or disgrace"
+    },
+    {
+        "name": "stigmatize",
+        "detail": "describe smb scornfully"
+    },
+    {
+        "name": "sting",
+        "detail": "smth sharp"
+    },
+    {
+        "name": "stingy",
+        "detail": "spending using unwillingly"
+    },
+    {
+        "name": "stint",
+        "detail": "to be thrifty to set limits"
+    },
+    {
+        "name": "stipple",
+        "detail": "paint with dots"
+    },
+    {
+        "name": "stipulate",
+        "detail": "state or put forward as a necessary condition"
+    },
+    {
+        "name": "stolid",
+        "detail": "showing no emotion impassive"
+    },
+    {
+        "name": "stray",
+        "detail": "wander lose one's way"
+    },
+    {
+        "name": "streak",
+        "detail": "long thin move very fast"
+    },
+    {
+        "name": "striated",
+        "detail": "striped grooved or banded"
+    },
+    {
+        "name": "stride",
+        "detail": "walk with long steps"
+    },
+    {
+        "name": "strut",
+        "detail": "a supporting bar"
+    },
+    {
+        "name": "stygian",
+        "detail": "hence dark gloomy"
+    },
+    {
+        "name": "stymie",
+        "detail": "to hinder obstruct or block"
+    },
+    {
+        "name": "subdue",
+        "detail": "overcome bring under control"
+    },
+    {
+        "name": "sublime",
+        "detail": "extreme astounding"
+    },
+    {
+        "name": "submerge",
+        "detail": "put under water liquid sink out of sight"
+    },
+    {
+        "name": "suborn",
+        "detail": "induce by bribery or smth to commit perjury"
+    },
+    {
+        "name": "subpoena",
+        "detail": "written order requiring a person to appear in a low court"
+    },
+    {
+        "name": "substantiation",
+        "detail": "giving facts to support (statement)"
+    },
+    {
+        "name": "subsume",
+        "detail": "include under a rule"
+    },
+    {
+        "name": "succor",
+        "detail": "assistance relief in time of distress"
+    },
+    {
+        "name": "suffice",
+        "detail": "be enough"
+    },
+    {
+        "name": "suffocate",
+        "detail": "cause or have difficulty in breathing"
+    },
+    {
+        "name": "sullied",
+        "detail": "to be stained or discredited"
+    },
+    {
+        "name": "summarily",
+        "detail": "briefly without delay"
+    },
+    {
+        "name": "sumptuous",
+        "detail": "magnificent"
+    },
+    {
+        "name": "sundry",
+        "detail": "various miscellaneous separate"
+    },
+    {
+        "name": "supercilious",
+        "detail": "disdainful characterized by haughty scorn"
+    },
+    {
+        "name": "superfluous",
+        "detail": "more then is needed or wanted"
+    },
+    {
+        "name": "superimpose",
+        "detail": "put smth on the top"
+    },
+    {
+        "name": "supersede",
+        "detail": "take the place of"
+    },
+    {
+        "name": "supine",
+        "detail": "lying on the back slow to act passive"
+    },
+    {
+        "name": "suppliant",
+        "detail": "asking humbly beseeching"
+    },
+    {
+        "name": "supplicate",
+        "detail": "make a humble petition to"
+    },
+    {
+        "name": "suppress",
+        "detail": "prevent from being known put an end to"
+    },
+    {
+        "name": "surcharge",
+        "detail": "additional load/charge"
+    },
+    {
+        "name": "surfeit",
+        "detail": "satiate feed to fulness or to excess"
+    },
+    {
+        "name": "susceptibility",
+        "detail": "sensitiveness"
+    },
+    {
+        "name": "swerve",
+        "detail": "change direction suddenly"
+    },
+    {
+        "name": "sycophant",
+        "detail": "person who flatter to the rich and powerful"
+    },
+    {
+        "name": "synopsis",
+        "detail": "summary or outline"
+    },
+    {
+        "name": "taciturn",
+        "detail": "untalkative silent"
+    },
+    {
+        "name": "tadpole",
+        "detail": "form of a frog when it leaves the egg"
+    },
+    {
+        "name": "talon",
+        "detail": "claw of a bird of prey"
+    },
+    {
+        "name": "tamp",
+        "detail": "tap or drive down by repeated light blows"
+    },
+    {
+        "name": "tamper",
+        "detail": "interfere with"
+    },
+    {
+        "name": "tangential",
+        "detail": "suddenly changeable"
+    },
+    {
+        "name": "tarnished",
+        "detail": "lost brightness"
+    },
+    {
+        "name": "tassel",
+        "detail": "bunch of threads"
+    },
+    {
+        "name": "taunt",
+        "detail": "contemptuous reproach hurtful remark"
+    },
+    {
+        "name": "taut",
+        "detail": "tightly stretched"
+    },
+    {
+        "name": "tautology",
+        "detail": "a repetition a redundancy"
+    },
+    {
+        "name": "tawdry",
+        "detail": "cheap gaudy showy tacky"
+    },
+    {
+        "name": "teetotal",
+        "detail": "oppose to alcohol"
+    },
+    {
+        "name": "temerity",
+        "detail": "boldness brashness intrepidness"
+    },
+    {
+        "name": "temperance",
+        "detail": "abstinence from alcohol self-control moderation"
+    },
+    {
+        "name": "temperate",
+        "detail": "showing self-control"
+    },
+    {
+        "name": "tenacity",
+        "detail": "firmness persistency adhesiveness tending to hang on"
+    },
+    {
+        "name": "tenuous",
+        "detail": "insubstantial flimsy weak"
+    },
+    {
+        "name": "tepid",
+        "detail": "lukewarm"
+    },
+    {
+        "name": "terse",
+        "detail": "brief and to the point"
+    },
+    {
+        "name": "testiness",
+        "detail": "witness/evidence"
+    },
+    {
+        "name": "thrift",
+        "detail": "care economy thriving prosperous"
+    },
+    {
+        "name": "thwart",
+        "detail": "obstruct/frustrate"
+    },
+    {
+        "name": "timid",
+        "detail": "shy easily frightened"
+    },
+    {
+        "name": "timorous",
+        "detail": "fearful timid afraid"
+    },
+    {
+        "name": "toady",
+        "detail": "obsequious flatterer"
+    },
+    {
+        "name": "tonic",
+        "detail": "smth giving strength or energy"
+    },
+    {
+        "name": "topple",
+        "detail": "be unsteady and overturn"
+    },
+    {
+        "name": "torment",
+        "detail": "severe pain or suffering"
+    },
+    {
+        "name": "torpid",
+        "detail": "sleeping sluggish lethargic dormant"
+    },
+    {
+        "name": "torque",
+        "detail": "twisting force causing rotation"
+    },
+    {
+        "name": "tortuous",
+        "detail": "devious/not straightforward"
+    },
+    {
+        "name": "tout",
+        "detail": "person who worries others to buy smth to use his service"
+    },
+    {
+        "name": "tractable",
+        "detail": "easily controlled or guided"
+    },
+    {
+        "name": "transgress",
+        "detail": "break go beyond (a limit)"
+    },
+    {
+        "name": "transient",
+        "detail": "temporary fleeting"
+    },
+    {
+        "name": "transitory",
+        "detail": "brief"
+    },
+    {
+        "name": "travesty",
+        "detail": "parody/imitation"
+    },
+    {
+        "name": "trenchant",
+        "detail": "forceful effective vigorous extremely perceptive incisive"
+    },
+    {
+        "name": "trepidation",
+        "detail": "alarm excited state of mind"
+    },
+    {
+        "name": "trickle",
+        "detail": "flow in drops"
+    },
+    {
+        "name": "trifling",
+        "detail": "unimportant"
+    },
+    {
+        "name": "trite",
+        "detail": "not new"
+    },
+    {
+        "name": "truce",
+        "detail": "(agreement) stop of fighting for a time"
+    },
+    {
+        "name": "truculence",
+        "detail": "aggressiveness ferocity"
+    },
+    {
+        "name": "trudge",
+        "detail": "walk heavily"
+    },
+    {
+        "name": "turbid",
+        "detail": "muddy having the sediment stirred up"
+    },
+    {
+        "name": "turbulence",
+        "detail": "being uncontrolled violent"
+    },
+    {
+        "name": "turgid",
+        "detail": "excessively ornate swollen or bloated"
+    },
+    {
+        "name": "turmoil",
+        "detail": "trouble disturbance"
+    },
+    {
+        "name": "turpitude",
+        "detail": "wickedness shamefulness"
+    },
+    {
+        "name": "turquoise",
+        "detail": "greenish-blue precious stone"
+    },
+    {
+        "name": "tyro",
+        "detail": "tiro beginner"
+    },
+    {
+        "name": "ubiquitous",
+        "detail": "present everywhere"
+    },
+    {
+        "name": "ulterior",
+        "detail": "situated beyond"
+    },
+    {
+        "name": "umbrage",
+        "detail": "offense resentment"
+    },
+    {
+        "name": "uncouth",
+        "detail": "rough awkward"
+    },
+    {
+        "name": "underbid",
+        "detail": "make a lower bid then smb else"
+    },
+    {
+        "name": "undermine",
+        "detail": "weaken gradually at the base make smth under"
+    },
+    {
+        "name": "undulate",
+        "detail": "to move in wavelike fashion fluctuate"
+    },
+    {
+        "name": "unearth",
+        "detail": "discover and bring to light"
+    },
+    {
+        "name": "unencumbered",
+        "detail": "easy-going trifle"
+    },
+    {
+        "name": "unfeigned",
+        "detail": "not pretended sincere"
+    },
+    {
+        "name": "unscathed",
+        "detail": "unharmed unhurt"
+    },
+    {
+        "name": "untoward",
+        "detail": "unfortunate inconvenient"
+    },
+    {
+        "name": "upbraid",
+        "detail": "scold reproach"
+    },
+    {
+        "name": "urbane",
+        "detail": "elegant refined in manners"
+    },
+    {
+        "name": "vacillation",
+        "detail": "being uncertain hesitating"
+    },
+    {
+        "name": "vagary",
+        "detail": "strange act or idea"
+    },
+    {
+        "name": "vain",
+        "detail": "without use result conceited"
+    },
+    {
+        "name": "valiant",
+        "detail": "brave"
+    },
+    {
+        "name": "valorous",
+        "detail": "brave"
+    },
+    {
+        "name": "vanquish",
+        "detail": "conquer"
+    },
+    {
+        "name": "veer",
+        "detail": "change direction"
+    },
+    {
+        "name": "venal",
+        "detail": "ready to do smth dishonest"
+    },
+    {
+        "name": "veneer",
+        "detail": "surface appearance covering the TRUE nature"
+    },
+    {
+        "name": "veneration",
+        "detail": "regard with deep respect"
+    },
+    {
+        "name": "veracity",
+        "detail": "truth"
+    },
+    {
+        "name": "verdant",
+        "detail": "fresh and green"
+    },
+    {
+        "name": "verisimilitude",
+        "detail": "appearing TRUE or real"
+    },
+    {
+        "name": "veritable",
+        "detail": "real rightly named"
+    },
+    {
+        "name": "verve",
+        "detail": "spirit vigor enthusiasm"
+    },
+    {
+        "name": "vestige",
+        "detail": "trace or sign"
+    },
+    {
+        "name": "vex",
+        "detail": "annoy distress trouble"
+    },
+    {
+        "name": "vigilance",
+        "detail": "watchfulness self-appointed group who maintain order"
+    },
+    {
+        "name": "vigilant",
+        "detail": "member of a vigilance committee"
+    },
+    {
+        "name": "vigorous",
+        "detail": "strong energetic"
+    },
+    {
+        "name": "vilify",
+        "detail": "slander say evil things"
+    },
+    {
+        "name": "vindictive",
+        "detail": "having a desire to revenge"
+    },
+    {
+        "name": "virago",
+        "detail": "a loud domineering woman a scold or nag"
+    },
+    {
+        "name": "visceral",
+        "detail": "of the internal organs of the body"
+    },
+    {
+        "name": "viscous",
+        "detail": "sticky/semi-fluid"
+    },
+    {
+        "name": "vitiate",
+        "detail": "lower the quality weaken the strength"
+    },
+    {
+        "name": "vituperate",
+        "detail": "curse abuse in words"
+    },
+    {
+        "name": "vivacious",
+        "detail": "lively high-spirited"
+    },
+    {
+        "name": "volatile",
+        "detail": "changeable inconstant fickle unstable explosive"
+    },
+    {
+        "name": "volubility",
+        "detail": "fluency verbosity easy use of spoken language"
+    },
+    {
+        "name": "voluble",
+        "detail": "fluent"
+    },
+    {
+        "name": "waffle",
+        "detail": "talk vaguely and without much result"
+    },
+    {
+        "name": "waft",
+        "detail": "scent waving movement carry lightly through"
+    },
+    {
+        "name": "wag",
+        "detail": "merry person"
+    },
+    {
+        "name": "warmonger",
+        "detail": "person who stirs up war"
+    },
+    {
+        "name": "warrant",
+        "detail": "authority written order guarantee"
+    },
+    {
+        "name": "wean",
+        "detail": "to turn away (from a habit)"
+    },
+    {
+        "name": "weigh",
+        "detail": "measure hoe heavy smth is"
+    },
+    {
+        "name": "welter",
+        "detail": "turmoil a bewildering jumble"
+    },
+    {
+        "name": "wend",
+        "detail": "to go proceed"
+    },
+    {
+        "name": "whimsical",
+        "detail": "full of odd and fanciful ideas"
+    },
+    {
+        "name": "wince",
+        "detail": "show bodily or mental pain"
+    },
+    {
+        "name": "woo",
+        "detail": "try to win"
+    },
+    {
+        "name": "writ",
+        "detail": "written order"
+    },
+    {
+        "name": "yarn",
+        "detail": "tale story fibers for knitting"
+    }
+]
