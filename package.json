@@ -1,7 +1,7 @@
 {
   "name": "awsskillfinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "Alexa skill to generate anything from a list of items",
   "main": "handler.js",
   "dependencies": {
     "ask-sdk-core": "^2.0.7",
@@ -17,5 +17,5 @@
     "debug": "set SLS_DEBUG=* && node --inspect ./node_modules/serverless/bin/serverless offline -s dev"
   },
   "author": "arjun",
-  "license": "ISC"
+  "license": "MIT"
 }
